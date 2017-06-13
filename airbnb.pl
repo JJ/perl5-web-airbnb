@@ -48,7 +48,7 @@ for my $u ( @urls ) {
       }
     }
   } else {
-      print "Error,,,,,,";
+      print ", Error,,,,,,";
   }
   print "\n";
 }
