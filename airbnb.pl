@@ -19,7 +19,7 @@ my @columns = qw ( Accommodates: Bathrooms: Bedrooms: Beds: limpieza extra finde
 say "ID, ", join(", ", @columns);
 for my $u ( @urls ) {
   my ($id) = ($u =~ /(\d+)/);
-  my $page = get( $u );
+  my $page = get( "https://www.airbnb.com/rooms/$id" );
   print "$id";
   if ( $page ) {
     my ($json_chunk) = ($page =~ /script type="application.json" data-hypernova-key="p3indexbundlejs" data-hypernova-id="\S+"><!--(.+)-->/);
