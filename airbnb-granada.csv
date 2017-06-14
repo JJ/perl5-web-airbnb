@@ -7,7 +7,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 97718, 6, 1, 2, 6, , , €150 / night
 109470, 2, 1.5, 1, 1, , €5 / night after the first guest, 
 113096, 3, 1, 1, 1, , €20 / night after 2 guests, 
-129565, No longer available,,,,,, 
 137757, 6, 2, 3, 4, , , 
 138886, 4, 1, 2, 3, , €20 / night after 2 guests, 
 138899, 2, 1, 1, 1, , , 
@@ -15,22 +14,17 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 142573, 4, 1, 1, 2, , €5 / night after 2 guests, €68 / night
 154921, 4, 2, 1, 1, €20, €15 / night after 2 guests, 
 150730, 4, 1, 1, 4, , €8 / night after 2 guests, 
-154419, No longer available,,,,,, 
-155927, No longer available,,,,,, 
 155885, 5, 1, 1, 3, , €25 / night after 2 guests, 
 163943, 2, , 1, 2, €10, €25 / night after the first guest, €35 / night
 163351, 4, 1, 1, 3, , No Charge, €68 / night
 169302, 1, 2, 1, 1, , , €23 / night
 172350, 4, 1, 1, 2, , €6 / night after 2 guests, 
 172330, 6, 2, 2, 2, , €15 / night after 2 guests, 
-173719, No longer available,,,,,, 
 177218, 4, 2, 1, 2, €24, €8 / night after 2 guests, 
 186285, 4, 1, 1, 3, €10, €18 / night after the first guest, €22 / night
 187288, 2, 1, 1, 1, , , €100 / night
-213305, No longer available,,,,,, 
 219578, 2, , 1, 1, , , €89 / night
 270398, 2, 1, 1, 1, , No Charge, 
-281909, No longer available,,,,,, 
 294424, 6, 2, 2, 3, €15, €10 / night after 4 guests, €80 / night
 303459, 2, 1, 1, 2, , No Charge, 
 304090, 2, 1, 1, 2, , No Charge, 
@@ -52,9 +46,7 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 428528, 2, 1, 1, 1, €20, , €50 / night
 436180, 2, 1, 1, 1, , , 
 440515, 5, 1, 1, 3, , €20 / night after 3 guests, 
-454119, No longer available,,,,,, 
 459552, 4, 1, 2, 3, , €16 / night after the first guest, 
-464844, No longer available,,,,,, 
 463902, 2, 1, 1, 2, €10, €12 / night after the first guest, 
 465608, 2, 1, 1, 2, €10, €10 / night after the first guest, 
 471119, 4, , 1, 1, €40, , 
@@ -64,7 +56,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 486399, 5, 1, 3, 3, , €10 / night after 3 guests, €68 / night
 499019, 3, 1, 1, 1, €22, €10 / night after 2 guests, €60 / night
 499137, 2, 1, 1, 1, €25, No Charge, €60 / night
-504827, No longer available,,,,,, 
 516918, 5, 1.5, 2, 4, €10, €15 / night after 2 guests, 
 520329, 2, 1, 1, 1, , No Charge, €70 / night
 520258, 2, 1, 1, 1, , No Charge, €100 / night
@@ -91,16 +82,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 620438, 4, 1, 1, 2, , €15 / night after 2 guests, €73 / night
 627401, 2, , 1, 1, , No Charge, 
 636529, 7, 2, 2, 7, €25, No Charge, 
-640501, No longer available,,,,,, 
-640476, No longer available,,,,,, 
-640483, No longer available,,,,,, 
 651283, 2, 1, 1, 1, , No Charge, 
 656560, 5, 1, 2, 3, €15, €10 / night after 4 guests, €50 / night
 658288, 4, 1, 1, 1, , No Charge, €65 / night
 666547, 5, 2, 3, 4, , No Charge, 
 667438, 2, 1, 3, 2, , €25 / night after the first guest, 
 669067, 2, 1, 1, 2, , No Charge, €70 / night
-680819, No longer available,,,,,, 
 686964, 4, 1, 1, 4, , No Charge, €190 / night
 685253, 2, 1.5, 1, 1, , €5 / night after the first guest, 
 693343, 2, 1, 1, 1, , No Charge, 
@@ -108,14 +95,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 693048, 1, 2, 1, 1, , , 
 694974, 1, 1, 1, 8, , , €20 / night
 694886, 8, 1, 2, 8, , , €209 / night
-702128, No longer available,,,,,, 
 701182, 4, 1, 1, 1, , €12 / night after 2 guests, 
 706906, 3, 1, 1, 3, , No Charge, 
 714367, 4, 1, 1, 3, , No Charge, €75 / night
 721676, 8, 1, 3, 5, , €25 / night after 2 guests, 
 721146, 2, 1, 1, 1, , , €100 / night
 726540, 4, 1, 1, 1, , €15 / night after 2 guests, 
-727385, No longer available,,,,,, 
 731689, 7, 2, 3, 5, , €12 / night after 2 guests, €49 / night
 737200, 7, 2, 4, 5, , €18 / night after 5 guests, €95 / night
 735784, 5, 1, 3, 3, €20, €25 / night after 2 guests, 
@@ -145,9 +130,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 805084, 2, 1, Studio, 1, €30, , 
 812458, 3, 1, 2, 2, , No Charge, 
 811846, 6, 1, 3, 6, €30, €10 / night after 4 guests, 
-821478, No longer available,,,,,, 
-821522, No longer available,,,,,, 
-821531, No longer available,,,,,, 
 829709, 3, 1, 1, 2, , €10 / night after 2 guests, €45 / night
 835483, 2, 1, 1, 1, , No Charge, €32 / night
 840163, 13, 2, 4, 8, , €20 / night after 4 guests, 
@@ -171,13 +153,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 945238, 8, 1, 1, 3, €20, €11 / night after 2 guests, €44 / night
 947091, 4, 1, 3, 9, €8, €11 / night after the first guest, €16 / night
 963739, 3, 1, Studio, 3, , €10 / night after 2 guests, €55 / night
-965876, No longer available,,,,,, 
 973260, 2, 1, 1, 1, €20, No Charge, 
 977067, 2, 1, 1, 1, , No Charge, 
 999854, 6, 2, 3, 6, €25, €15 / night after 4 guests, €75 / night
 997710, 2, 1, 1, 2, , €10 / night after the first guest, 
 1000819, 6, 1, 3, 4, , No Charge, 
-1002465, No longer available,,,,,, 
 1011627, 5, 1, 2, 3, €25, €15 / night after 3 guests, 
 1014239, 5, 2, 2, 5, , €10 / night after 2 guests, 
 1024010, 2, 1, 1, 2, €15, €12 / night after the first guest, 
@@ -190,19 +170,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 1110048, 5, 2, 2, 5, €30, €15 / night after 4 guests, €100 / night
 1117442, 2, 1, 1, 2, , €10 / night after the first guest, 
 1120497, 1, , 1, , , , 
-1135943, No longer available,,,,,, 
 1138021, 3, 1, 1, 2, €9, €20 / night after the first guest, €35 / night
-1143064, No longer available,,,,,, 
 1140507, 5, 1, 1, 3, , €20 / night after 2 guests, €64 / night
 1166353, 4, 2, 1, 1, , €15 / night after 2 guests, €94 / night
 1169420, 4, 1, 2, 2, €40, No Charge, 
 1179715, 6, 2, 2, 4, , €10 / night after 2 guests, 
 1177184, 1, 1, 1, 1, , , 
 1184444, 4, 1, 2, 3, €8, No Charge, 
-1193022, No longer available,,,,,, 
 1190308, 12, 3, 3, 8, €50, No Charge, €250 / night
 1195880, 6, 1, , 2, , €25 / night after the first guest, €55 / night
-1196736, No longer available,,,,,, 
 1200602, 2, 1, 1, 1, , €17 / night after the first guest, 
 1206348, 2, 1, 1, 1, €35, No Charge, 
 1206891, 5, 1, 3, 3, €30, No Charge, 
@@ -243,10 +219,8 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 1463553, 3, 1, 1, 2, €28, €13 / night after 2 guests, €55 / night
 1478247, 3, 1, 1, 2, , €15 / night after 2 guests, €45 / night
 1478915, 2, 1, 1, 1, , €15 / night after the first guest, €25 / night
-1484969, No longer available,,,,,, 
 1485082, 12, 3, 1, 12, , €14 / night after the first guest, €16 / night
 1494345, 3, 1, 2, 2, €10, €30 / night after the first guest, €60 / night
-1497806, No longer available,,,,,, 
 1512381, 16+, 3, 1, 16, , €14 / night after the first guest, €18 / night
 1512441, 1, 1, 1, 1, , , €25 / night
 1530466, 2, 1, 1, 1, , No Charge, 
@@ -255,7 +229,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 1550209, 5, 1, 2, 4, , €20 / night after 2 guests, 
 1560560, 1, 1.5, 1, 1, , , €16 / night
 1563908, 2, 1, 1, 1, , , €55 / night
-1600604, No longer available,,,,,, 
 1611146, 5, 2, 2, 5, , €20 / night after 4 guests, 
 1625445, 4, 1, 1, 2, , €10 / night after 2 guests, 
 1628697, 4, 1, 1, 2, , €15 / night after 2 guests, €45 / night
@@ -311,7 +284,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 2007535, 6, 1, 3, 4, €5, €10 / night after 3 guests, €42 / night
 2015643, 2, 1, 1, 1, , No Charge, 
 2023928, 8, 1, 2, 6, , €9 / night after 3 guests, €75 / night
-2026591, No longer available,,,,,, 
 2031161, 3, 1, 1, 2, €24, €14 / night after 2 guests, €55 / night
 2038868, 4, 1, 1, 2, €4, €14 / night after the first guest, 
 2043982, 2, 1, 1, 1, , €18 / night after the first guest, €20 / night
@@ -322,7 +294,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 2056014, 16+, 2, 1, 1, , €14 / night after the first guest, €16 / night
 2055635, 3, 1, 1, 2, , €20 / night after 2 guests, 
 2060850, 2, 1, 1, 2, , €18 / night after the first guest, 
-2071025, No longer available,,,,,, 
 2124127, 2, 1, Studio, 1, , €10 / night after the first guest, €40 / night
 2125727, 4, 1, 3, 4, , No Charge, 
 2138760, 2, 1, 1, 1, €5, No Charge, €45 / night
@@ -340,7 +311,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 2233241, 2, 1, 1, 1, , No Charge, 
 2238965, 6, 1, 2, 4, , €8 / night after 3 guests, €70 / night
 2241378, 2, 2, 1, 2, , €10 / night after the first guest, 
-2265177, No longer available,,,,,, 
 2270551, 10, 2, 4, 6, , €20 / night after 4 guests, €120 / night
 2307013, 3, 1, 1, 2, , No Charge, 
 2322151, 6, 1, 2, 5, , €15 / night after 4 guests, 
@@ -348,7 +318,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 2383086, 3, 1, 1, 2, , €20 / night after 2 guests, 
 2385865, 2, 1, 1, 2, €15, No Charge, 
 2396437, 6, 2, 3, 4, , No Charge, €120 / night
-2398972, No longer available,,,,,, 
 2400374, 5, 1, 1, 3, , €10 / night after 3 guests, €50 / night
 2415036, 3, 1, 3, 3, , €15 / night after the first guest, 
 2417908, 2, 1, 1, 1, , No Charge, 
@@ -358,7 +327,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 2482080, 6, 1, 2, 3, , €15 / night after 4 guests, 
 2500126, 2, 1, 1, 1, , €10 / night after the first guest, €110 / night
 2506099, 16+, 4, 4, 12, , €19 / night after 2 guests, 
-2512577, No longer available,,,,,, 
 2516826, 6, 1, 2, 4, , €15 / night after 4 guests, 
 2533730, 12, 2, 5, 10, , €12 / night after 4 guests, 
 2548693, 1, 1.5, 1, 1, , , €25 / night
@@ -376,19 +344,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 2619782, 3, 1, 1, 2, , No Charge, 
 2657849, 4, 2, 1, 3, , €20 / night after 2 guests, 
 2665343, 1, 2, 1, 1, , , 
-2687924, No longer available,,,,,, 
-2685267, No longer available,,,,,, 
 2688158, 3, 1, 1, 2, , €10 / night after 2 guests, 
 2694509, 1, 1, 1, 1, , , €20 / night
 2703580, 2, 1, 1, 1, , €5 / night after the first guest, 
-2716586, No longer available,,,,,, 
 2724391, 7, 1, 2, 5, , €10 / night after 3 guests, €110 / night
 2734869, 8, 3, 3, 6, , €18 / night after 3 guests, 
 2735582, 3, 1, 1, 2, , €10 / night after 2 guests, €60 / night
 2754124, 3, 1, 1, 1, €20, €13 / night after 2 guests, €39 / night
 2776782, 2, 1, 1, 1, , €5 / night after the first guest, 
 2793345, 2, 1, 1, 2, , €10 / night after the first guest, 
-2841399, No longer available,,,,,, 
 2867923, 4, 1, 1, 2, , €10 / night after 2 guests, €42 / night
 2872493, 1, 0.5, 1, 1, , , 
 2908440, 2, 1, 1, 2, , €10 / night after the first guest, 
@@ -406,16 +370,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 3142161, 5, 1, 3, 4, , No Charge, 
 3157228, 2, 1, 1, 2, €5, , 
 3159563, 3, 2, 2, 2, , No Charge, 
-3179466, No longer available,,,,,, 
 3175722, 3, 1, 1, 1, €10, €20 / night after 2 guests, €42 / night
 3180368, 2, 1, 1, 1, €12, €12 / night after the first guest, €30 / night
 3184979, 5, 2, 4, 4, €30, No Charge, 
-3197475, No longer available,,,,,, 
 3204958, 2, 1, 1, 1, €20, No Charge, €74 / night
 3248665, 7, 3, 3, 6, , €12 / night after 2 guests, 
 3259596, 5, 1.5, 3, 5, €6, €8 / night after 2 guests, 
 3269296, 1, 1, 1, 1, , , 
-3282334, No longer available,,,,,, 
 3283627, 2, 1, 1, 1, €10, No Charge, 
 3285946, 4, 1, 2, 3, €24, No Charge, 
 3299478, 3, 1, Studio, 2, , €12 / night after 2 guests, €90 / night
@@ -434,7 +395,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 3422504, 2, 1, 1, 1, €30, No Charge, €49 / night
 3439280, 4, 1, 2, 3, €8, No Charge, 
 3475153, 6, 3, 3, 4, €30, €25 / night after 4 guests, €140 / night
-3482343, No longer available,,,,,, 
 3481425, 4, 1.5, 1, 2, , €10 / night after 2 guests, €90 / night
 3481472, 4, 1, 1, 2, , €10 / night after 2 guests, €90 / night
 3481227, 4, 1.5, 1, 2, , €10 / night after 2 guests, €90 / night
@@ -442,19 +402,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 3495793, 2, 1, 1, 1, €10, No Charge, 
 3496227, 2, 1, 1, 1, , No Charge, 
 3526259, 2, 2, 1, 1, , No Charge, 
-3537432, No longer available,,,,,, 
 3540586, 4, 1, 2, 2, €15, €15 / night after 2 guests, 
-3559926, No longer available,,,,,, 
 3565847, 5, 2, 4, 4, , No Charge, 
 3565379, 8, 2, 4, 4, , No Charge, 
 3574150, 4, 1, 1, 3, €10, €35 / night after 2 guests, 
-3585013, No longer available,,,,,, 
 3588841, 2, 1, 1, 1, €5, No Charge, €42 / night
 3593212, 2, 1, 1, 2, , No Charge, €35 / night
 3601342, 7, 1.5, 3, 4, €30, €10 / night after 2 guests, 
 3634027, 5, 1, 2, 3, €15, €10 / night after 2 guests, 
 3640314, 4, 1, 1, 2, , €10 / night after 2 guests, €85 / night
-3648064, No longer available,,,,,, 
 3656564, 5, 2, 5, 5, , €10 / night after the first guest, 
 3666687, 2, 1, 1, 1, , €25 / night after the first guest, 
 3692057, 3, 1, 3, 3, €30, No Charge, 
@@ -473,7 +429,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 3815200, 5, 2, 3, 3, , No Charge, 
 3815734, 2, 2, 1, 1, €4, , €35 / night
 3817005, 2, 1, 1, 1, €10, , 
-3834754, No longer available,,,,,, 
 3834850, 2, 2, 1, 1, , No Charge, 
 3844963, 4, 2, 2, 3, €20, €10 / night after 2 guests, 
 3846483, 2, 2, 1, 2, , No Charge, 
@@ -486,7 +441,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 3887457, 4, 1, 1, 1, , €10 / night after the first guest, €50 / night
 3909295, 6, 2, 3, 5, , €8 / night after 3 guests, 
 3939648, 3, 1, 2, 2, €15, €10 / night after 2 guests, 
-3936559, No longer available,,,,,, 
 3944996, 6, 2, 3, 3, , No Charge, €88 / night
 3967793, 3, 1, Studio, 1, , €20 / night after 2 guests, 
 3969009, 4, 1, 1, 1, , €5 / night after 2 guests, 
@@ -501,26 +455,20 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 4067346, 12, 2.5, 4, 7, €20, €25 / night after 4 guests, €112 / night
 4073979, 1, 1, 1, 1, , , 
 4072581, 1, 1, 1, 1, , , 
-4079373, No longer available,,,,,, 
 4085000, 6, 1, 2, 4, €10, €7 / night after 2 guests, €75 / night
 4091325, 1, 2, 1, 1, , , 
-4095087, No longer available,,,,,, 
 4107367, 6, 2, 3, 4, €60, €10 / night after 4 guests, 
 4115071, 6, 1, 2, 3, €25, €10 / night after 3 guests, €70 / night
 4123744, 2, 1, 1, 1, , €10 / night after the first guest, €22 / night
 4124223, 2, 1, 1, 1, , No Charge, €45 / night
-4146647, No longer available,,,,,, 
 4162503, 5, 1, 4, 4, , No Charge, 
 4203669, 4, 1, 2, 2, , €10 / night after 2 guests, 
 4218089, 3, 1, 1, 2, €10, €25 / night after the first guest, 
 4221121, 4, 1, 1, 2, €45, No Charge, 
 4230922, 4, 1, 2, 3, €50, , €150 / night
-4233366, No longer available,,,,,, 
 4238597, 4, 1, 2, 4, €10, €20 / night after 2 guests, 
 4238463, 2, 1, 1, 1, , , 
 4241115, 2, 1, Studio, 1, €15, No Charge, 
-4254807, No longer available,,,,,, 
-4254824, No longer available,,,,,, 
 4255785, 5, 1, 2, 4, , No Charge, €75 / night
 4265767, 4, 1, 1, 2, €20, €15 / night after 2 guests, 
 4268121, 5, 1, 2, 4, , €20 / night after 2 guests, 
@@ -531,7 +479,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 4315806, 6, 2.5, 2, 6, , €10 / night after 4 guests, €115 / night
 4328084, 2, 1, 1, 1, , , 
 4335367, 8, 2, 3, 9, €30, €20 / night after 4 guests, €140 / night
-4337886, No longer available,,,,,, 
 4339845, 15, 4.5, 6, 15, €140, €12 / night after 8 guests, €600 / night
 4392882, 6, 1, 3, 5, €30, No Charge, 
 4409444, 4, 1, 1, 2, , €10 / night after 2 guests, €85 / night
@@ -539,14 +486,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 4415880, 4, 1, 1, 2, , €10 / night after 2 guests, 
 4425745, 4, 1, 1, 2, €20, €7 / night after 2 guests, €85 / night
 4436845, 4, 1, 2, 3, , No Charge, 
-4437255, No longer available,,,,,, 
 4446525, 2, 1, 1, 2, , No Charge, €45 / night
 4453840, 2, 1, Studio, 2, , No Charge, €40 / night
 4462851, 4, 1, 1, 4, , €18 / night after 2 guests, €110 / night
 4462910, 4, 1, 1, 4, , €20 / night after 2 guests, €110 / night
-4482356, No longer available,,,,,, 
 4487929, 5, 1, 1, 5, , , €142 / night
-4505175, No longer available,,,,,, 
 4510337, 8, 1, 2, 8, , €10 / night after 7 guests, €150 / night
 4535733, 12, 1, 1, 12, , €15 / night after the first guest, €15 / night
 4535712, 12, 1, 1, 12, , €15 / night after the first guest, €15 / night
@@ -554,7 +498,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 4547455, 16+, 8+, 10, 16, , €20 / night after the first guest, 
 4562483, 5, 2, 2, 4, , No Charge, €60 / night
 4561590, 2, 2, 1, 2, , No Charge, 
-4564603, No longer available,,,,,, 
 4563964, 2, 1, 1, 1, , €7 / night after the first guest, 
 4571666, 4, 1, 1, 2, , €14 / night after 2 guests, 
 4571581, 2, 2, 1, 1, , , €32 / night
@@ -567,11 +510,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 4659797, 2, 1, Studio, 1, , No Charge, 
 4668324, 7, 1, 2, 5, €30, €20 / night after 2 guests, 
 4668611, 5, 1, 1, 4, €34, €12 / night after 2 guests, €55 / night
-4668194, No longer available,,,,,, 
 4673322, 4, 1, 1, 2, , €10 / night after 2 guests, €85 / night
 4699072, 2, 1, 1, 1, , No Charge, €38 / night
 4722653, 4, 1, 1, 2, , No Charge, €100 / night
-4743079, No longer available,,,,,, 
 4744538, 6, 2, 2, 3, €15, €15 / night after 2 guests, €70 / night
 4775126, 4, 1, 2, 3, , No Charge, 
 4781714, 2, 1, 1, 1, , No Charge, 
@@ -585,7 +526,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 4829907, 13, 2, 4, 8, , No Charge, €270 / night
 4844638, 6, 1, 3, 4, , No Charge, 
 4845632, 6, 2, 3, 4, €20, €20 / night after 3 guests, €300 / night
-4847467, No longer available,,,,,, 
 4851900, 2, 1, 1, 1, €20, , €50 / night
 4863127, 2, 1, 1, 1, €20, €10 / night after the first guest, 
 4865976, 6, 2, 3, 4, , €10 / night after 3 guests, €69 / night
@@ -614,7 +554,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 5088331, 4, 1, 3, 3, €100, No Charge, 
 5108630, 6, 1, 2, 4, €50, €10 / night after 2 guests, 
 5143557, 3, 1, 1, 3, €20, €25 / night after 2 guests, €95 / night
-5166523, No longer available,,,,,, 
 5207518, 4, 1, 2, 2, €20, €18 / night after 2 guests, €70 / night
 5208147, 1, 2, 1, 1, , , 
 5210536, 6, 1, 2, 5, , €15 / night after 4 guests, 
@@ -660,7 +599,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 5600589, 3, 2, 1, 3, , €15 / night after 2 guests, €35 / night
 5600158, 2, 1, 1, 1, €18, No Charge, €65 / night
 5630157, 2, 1, 1, 1, , €13 / night after the first guest, 
-5635529, No longer available,,,,,, 
 5659772, 5, 2, 2, 4, , €20 / night after 2 guests, 
 5666362, 12, 2, 6, 6, , €20 / night after 6 guests, €150 / night
 5689789, 3, 1, 2, 2, , No Charge, 
@@ -679,7 +617,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 5770521, 6, 2, 3, 5, , €8 / night after 2 guests, €110 / night
 5793784, 3, 1, 1, 2, €12, No Charge, 
 5817562, 8, 3, 4, 5, €39, €12 / night after 5 guests, €230 / night
-5815619, No longer available,,,,,, 
 5821620, 5, 1, 2, 3, , €15 / night after 4 guests, 
 5820671, 2, 1, 1, 2, , No Charge, 
 5829201, 2, 1, 1, 1, , No Charge, €25 / night
@@ -690,7 +627,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 5871114, 2, 1, 1, 1, €5, €5 / night after the first guest, 
 5877235, 4, 1, 1, 2, €10, €10 / night after 2 guests, €60 / night
 5884307, 6, 2, 4, 4, €89, €22 / night after 3 guests, 
-5899613, No longer available,,,,,, 
 5921808, 2, 1, 1, 1, €20, , 
 5923095, 2, 1, 1, 1, , €5 / night after the first guest, 
 5922788, 2, 1, 1, 2, , €5 / night after the first guest, 
@@ -700,7 +636,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 5974395, 2, 1, 1, 2, €5, €10 / night after the first guest, €35 / night
 5974814, 1, 1, 1, 1, €5, , €25 / night
 5987366, 2, 1, 1, 1, €5, €15 / night after the first guest, 
-5998373, No longer available,,,,,, 
 6013396, 4, 1, 1, 2, €20, €25 / night after 2 guests, €95 / night
 6023348, 3, 1, 2, 2, €15, €8 / night after 2 guests, €50 / night
 6103053, 2, 1, 1, 1, €20, No Charge, 
@@ -713,12 +648,10 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 6361552, 1, 1, Studio, 1, , , 
 6379399, 4, 1, 3, 4, , , 
 6384598, 3, 1, 1, 1, , No Charge, 
-6385845, No longer available,,,,,, 
 6397441, 6, 2, 3, 5, , €15 / night after the first guest, €21 / night
 6396392, 9, 1.5, 3, 9, , €15 / night after 4 guests, €115 / night
 6401666, 7, 2, 2, 5, €30, €15 / night after 2 guests, €60 / night
 6414313, 6, 1, 3, 3, , €30 / night after 2 guests, 
-6433195, No longer available,,,,,, 
 6441811, 4, 1, 1, 2, , €12 / night after 2 guests, €79 / night
 6475887, 1, 1, 1, 1, , , 
 6484398, 5, 2, 4, 4, , No Charge, 
@@ -730,15 +663,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 6553479, 4, 1, 2, 3, €30, No Charge, €130 / night
 6562333, 4, 1, 1, 3, , €5 / night after 2 guests, €65 / night
 6565489, 3, 1, 1, 1, , €25 / night after 2 guests, €75 / night
-6571707, No longer available,,,,,, 
-6586172, No longer available,,,,,, 
 6609180, 2, 1, 1, 1, , , 
 6607336, 4, 2, 1, 4, , €13 / night after the first guest, 
 6670170, 4, 2, 1, 4, , No Charge, 
 6685908, 9, 1.5, 3, 9, , €13 / night after 6 guests, €140 / night
 6702690, 2, 1, 1, 1, , €35 / night after the first guest, 
 6727841, 6, 1, 3, 4, €15, €20 / night after 5 guests, €100 / night
-6789509, No longer available,,,,,, 
 6796490, 2, 1, 1, 2, , No Charge, 
 6803268, 2, 1, 1, 1, , No Charge, 
 6814931, 4, 1.5, 1, 4, , €15 / night after 2 guests, €28 / night
@@ -753,7 +683,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 6895552, 2, 1, 1, 2, , €5 / night after the first guest, 
 6954951, 2, 1, 1, 1, , No Charge, 
 6985710, 16+, 8+, 10, 1, , €10 / night after the first guest, 
-7023574, No longer available,,,,,, 
 7020070, 2, 1, 1, 1, , No Charge, 
 7033935, 1, 1, 1, 1, €5, , 
 7031455, 2, 1, 1, 1, €23, No Charge, 
@@ -772,17 +701,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 7170040, 4, 1, 2, 3, €30, No Charge, 
 7179371, 2, 2, 1, 1, , , 
 7175280, 3, 1, 2, 2, €20, No Charge, 
-7189278, No longer available,,,,,, 
 7198473, 4, 1, 2, 2, €15, €15 / night after 2 guests, €95 / night
 7209103, 4, 1, 2, 2, €15, €15 / night after 2 guests, €95 / night
 7225510, 2, 1, 1, 1, , , €35 / night
 7248147, 2, 2, 1, 1, , , 
 7260227, 4, 1.5, 1, 2, , €6 / night after the first guest, 
-7270281, No longer available,,,,,, 
 7275293, 5, 1, 1, 4, , €5 / night after 4 guests, 
 7283695, 2, 1, 1, 1, , , 
-7292045, No longer available,,,,,, 
-7295649, No longer available,,,,,, 
 7304018, 4, 1, 3, 3, , €10 / night after 2 guests, 
 7302867, 4, 1, 2, 3, , €10 / night after 2 guests, 
 7308943, 4, 1, 1, 2, €23, €20 / night after 2 guests, 
@@ -798,7 +723,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 7407016, 4, 2, 2, 2, , , €140 / night
 7423532, 2, 1, 1, 2, , , 
 7425631, 2, 1, 1, 1, , , €59 / night
-7486376, No longer available,,,,,, 
 7491507, 3, 1, 1, 1, , €5 / night after the first guest, €20 / night
 7521677, 3, 1, 1, 3, €20, €17 / night after 2 guests, 
 7526970, 1, 1, 1, 1, , , €35 / night
@@ -808,11 +732,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 7569941, 2, 1, 1, 2, , €10 / night after the first guest, €20 / night
 7577084, 5, 1, 2, 3, €20, €10 / night after 2 guests, €65 / night
 7582788, 2, 1, 1, 1, , €5 / night after the first guest, €15 / night
-7594470, No longer available,,,,,, 
 7595269, 4, 1, 2, 3, €20, No Charge, €80 / night
 7597615, 1, 2, 1, 1, , , 
 7608251, 1, 2, 1, 1, , , 
-7612025, No longer available,,,,,, 
 7644468, 4, 1, 1, 2, , €6 / night after 2 guests, 
 7646067, 4, 1, 1, 2, €20, €15 / night after 2 guests, €65 / night
 7656244, 1, 1, 1, 1, , , 
@@ -824,11 +746,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 7715037, 6, 2.5, 3, 6, €30, , €125 / night
 7722788, 2, 2, 1, 1, , No Charge, 
 7733628, 6, 2, 3, 6, , No Charge, 
-7739327, No longer available,,,,,, 
 7747841, 3, 1, 2, 2, , No Charge, 
 7794903, 4, 2, 2, 3, €20, €15 / night after 2 guests, 
 7795438, 4, 1, 4, 4, €6, €15 / night after the first guest, 
-7798781, No longer available,,,,,, 
 7845433, 6, 1, 2, 2, , No Charge, 
 7854203, 6, 2, 2, 5, , €12 / night after 4 guests, €106 / night
 7871436, 4, 1, 2, 2, , , 
@@ -845,12 +765,10 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 8076568, 2, 1, 1, 1, , €6 / night after the first guest, 
 8082271, 4, 1, 1, 2, €10, €10 / night after 2 guests, €50 / night
 8093606, 5, 2, 2, 4, €30, €12 / night after 2 guests, 
-8101534, No longer available,,,,,, 
 8100775, 1, 1, 1, 1, , , 
 8114876, 2, 1, Studio, 1, €15, , €40 / night
 8127992, 4, 1, 1, 4, €20, €25 / night after 2 guests, €95 / night
 8125168, 4, 1, 2, 4, €20, , 
-8137122, No longer available,,,,,, 
 8146515, 2, 1, 1, 1, €12, No Charge, 
 8151608, 4, 1, 1, 2, , €20 / night after 2 guests, 
 8159734, 4, 1, 1, 1, €15, €5 / night after 2 guests, €42 / night
@@ -880,10 +798,8 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 8332303, 2, 1, 1, 1, , No Charge, €32 / night
 8365024, 6, 1, 1, 6, , No Charge, €120 / night
 8366977, 4, 1, 2, 4, , No Charge, €125 / night
-8369190, No longer available,,,,,, 
 8384095, 2, 1, 1, 2, , , 
 8424103, 4, 1, 2, 3, €25, €7 / night after 2 guests, €125 / night
-8432326, No longer available,,,,,, 
 8434433, 8, 3, 1, 6, €60, €10 / night after the first guest, €200 / night
 8469832, 3, 1, 2, 2, , , €40 / night
 8479407, 5, 1, 3, 3, , No Charge, 
@@ -892,20 +808,17 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 8483942, 3, 1, Studio, 3, €10, €10 / night after 2 guests, €39 / night
 8493880, 6, 1, 2, 3, €55, €13 / night after 2 guests, 
 8509227, 2, 1, 1, 1, , No Charge, 
-8523218, No longer available,,,,,, 
 8529347, 2, 1, 1, 1, , €8 / night after the first guest, €22 / night
 8531766, 2, 2, 1, 1, , €10 / night after the first guest, 
 8536828, 2, 2, 1, 1, , €10 / night after the first guest, 
 8544767, 2, 1, 1, 1, , No Charge, 
 8554051, 4, 1, 2, 3, €10, €20 / night after 2 guests, 
-8571278, No longer available,,,,,, 
 8572191, 4, 1, 2, 2, , €10 / night after 2 guests, 
 8577256, 2, 1, 1, 1, , €5 / night after the first guest, 
 8586623, 4, 1, 2, 2, €40, €10 / night after 2 guests, 
 8594599, 6, 1, 1, 6, , €15 / night after the first guest, €18 / night
 8593770, 8, 1, 1, 8, , €14 / night after the first guest, 
 8608412, 2, 1, 1, 1, , €15 / night after the first guest, 
-8616096, No longer available,,,,,, 
 8620898, 1, 1.5, 1, 1, , , 
 8624241, 3, 1, 1, 2, , €10 / night after 2 guests, 
 8626829, 2, 1, Studio, 2, , No Charge, €42 / night
@@ -959,13 +872,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 9089140, 2, 4, 1, 2, , No Charge, €25 / night
 9092674, 2, 4, 1, 1, , No Charge, €30 / night
 9100473, 8, 2, 3, 6, , €15 / night after 6 guests, €117 / night
-9111170, No longer available,,,,,, 
 9125050, 4, 1, 1, 2, €12, €12 / night after 2 guests, €61 / night
 9131253, 1, 1, 1, 1, , , €23 / night
 9136916, 6, 1, 3, 5, , €10 / night after 2 guests, €110 / night
 9148885, 5, 1, 2, 3, , €14 / night after 2 guests, €58 / night
 9154008, 7, 1, 3, 5, , €18 / night after the first guest, 
-9160337, No longer available,,,,,, 
 9177026, 5, 2, 3, 2, €30, No Charge, €140 / night
 9182857, 5, 1, 1, 3, , €20 / night after 2 guests, 
 9200155, 2, 1, Studio, 1, €23, No Charge, 
@@ -995,14 +906,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 9547396, 8, 1, 3, 7, €10, €15 / night after 6 guests, €130 / night
 9572879, 5, 1, 3, 2, , No Charge, €65 / night
 9608974, 14, 4, 4, 11, €25, No Charge, €400 / night
-9610203, No longer available,,,,,, 
 9613688, 2, 1, 1, 1, , No Charge, 
 9626860, 2, 1, 1, 1, , No Charge, 
 9647949, 4, 1, 1, 2, €10, €10 / night after 2 guests, €50 / night
 9651192, 2, 1, 1, 2, , No Charge, 
 9700085, 4, 1, 2, 3, , No Charge, €93 / night
 9729244, 4, 1, 2, 3, €25, €20 / night after 2 guests, €69 / night
-9735501, No longer available,,,,,, 
 9741995, 6, 2, 3, 4, , €20 / night after 2 guests, 
 9748134, 2, 1, 1, 1, , No Charge, €20 / night
 9763923, 2, 1, 1, 1, €30, No Charge, 
@@ -1023,12 +932,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 9911952, 2, 1, 1, 2, , , 
 9931660, 3, 1, 1, 2, , €10 / night after 2 guests, €55 / night
 9930577, 3, 1, 1, 2, €15, No Charge, €50 / night
-9931946, No longer available,,,,,, 
 9947825, 8, 2, 3, 8, , €10 / night after 4 guests, 
-9954427, No longer available,,,,,, 
 9965325, 2, 2, 1, 1, , €10 / night after the first guest, €18 / night
 9970401, 4, 1, 1, 2, €20, €10 / night after 2 guests, 
-9985260, No longer available,,,,,, 
 9990043, 5, 1, 2, 2, €20, €10 / night after 4 guests, €80 / night
 9991059, 2, 2, 1, 1, , No Charge, 
 10012217, 2, 1, 1, 1, , No Charge, €55 / night
@@ -1040,7 +946,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 10064171, 6, 1, 1, 4, €10, €20 / night after 2 guests, 
 10081484, 2, 1, 1, 1, , No Charge, €29 / night
 10095002, 2, 1, 1, 2, , €10 / night after the first guest, 
-10117500, No longer available,,,,,, 
 10133605, 12, 4.5, 5, 9, , €30 / night after 6 guests, 
 10187492, 6, 1, 3, 4, €5, €10 / night after 3 guests, €42 / night
 10207889, 4, 1, 1, 2, €15, €10 / night after 2 guests, €59 / night
@@ -1061,7 +966,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 10428591, 6, 1, 2, 3, , No Charge, 
 10448394, 2, 1, 1, 1, , , €80 / night
 10452428, 2, 1, 1, 1, , No Charge, 
-10465348, No longer available,,,,,, 
 10483502, 3, 1, 1, 2, , €5 / night after 2 guests, €30 / night
 10492670, 10, 2, 3, 8, , €15 / night after 7 guests, €150 / night
 10516790, 4, 1, 1, 4, , €15 / night after 2 guests, €150 / night
@@ -1099,7 +1003,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 10741737, 3, 1, 2, 2, , €20 / night after 2 guests, €82 / night
 10758604, 4, 1, 2, 3, €50, €15 / night after 2 guests, 
 10763303, 4, 1, 1, 2, , €20 / night after the first guest, 
-10778040, No longer available,,,,,, 
 10788182, 2, 1, 1, 1, , No Charge, 
 10804890, 2, 1, 1, 1, , No Charge, 
 10823782, 6, 2, 3, 7, €60, €10 / night after 4 guests, 
@@ -1117,7 +1020,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 10960327, 4, 1, Studio, 1, €20, €15 / night after 2 guests, 
 10975502, 5, 2, 2, 4, , No Charge, 
 10981482, 4, 1, 1, 1, , €10 / night after 2 guests, €80 / night
-10989285, No longer available,,,,,, 
 10994750, 2, 0.5, 1, 1, , No Charge, 
 10998934, 4, 1, 1, 1, , €10 / night after 2 guests, 
 11039864, 2, 0.5, 1, 1, , No Charge, 
@@ -1130,18 +1032,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 11160125, 4, 1, 2, 4, , €15 / night after the first guest, 
 11165505, 6, 1.5, 3, 5, €20, No Charge, €120 / night
 11166714, 2, 1, 1, 1, €5, , €25 / night
-11216296, No longer available,,,,,, 
 11240514, 6, 1, 2, 3, , €10 / night after 2 guests, €59 / night
 11249550, 4, 2, 2, 3, €15, €10 / night after 3 guests, €52 / night
 11251431, 1, , 1, 1, , , 
 11250745, 5, 2.5, 3, 3, €30, €15 / night after 2 guests, 
 11257682, 4, 1, 1, 2, €15, No Charge, 
-11267335, No longer available,,,,,, 
 11272500, 2, 2, 1, 1, , €9 / night after the first guest, 
 11274711, 2, 1, 1, 1, , No Charge, 
 11278825, 2, 0.5, 1, 1, , No Charge, 
 11299658, 4, 1, 1, 2, , €20 / night after 2 guests, 
-11295075, No longer available,,,,,, 
 11334070, 1, 1, 1, 1, , , 
 11334342, 2, 1, 1, 1, , No Charge, 
 11330354, 6, 1, 2, 3, , €9 / night after 4 guests, €128 / night
@@ -1149,13 +1048,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 11391398, 4, 2, 2, 3, , €30 / night after 2 guests, 
 11394754, 6, 1, 2, 5, , No Charge, 
 11404184, 2, 1, Studio, 1, €20, No Charge, 
-11407743, No longer available,,,,,, 
 11405155, 2, 2, 1, 2, , €11 / night after the first guest, 
 11407788, 6, 2, 3, 5, €45, , 
 11426976, 2, 1, 1, 1, €5, €15 / night after the first guest, 
 11439387, 6, 1, 2, 4, , €20 / night after 4 guests, 
 11439904, 2, 1.5, 1, 1, , No Charge, €32 / night
-11453977, No longer available,,,,,, 
 11460792, 3, 1.5, 1, 3, , €15 / night after 2 guests, €34 / night
 11461125, 6, 1, 3, 5, , €10 / night after 2 guests, €110 / night
 11469338, 2, 1.5, 1, 2, , No Charge, €32 / night
@@ -1168,15 +1065,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 11502920, 4, 1, 2, 2, €24, €7 / night after 2 guests, 
 11517643, 4, 1, 1, 1, , €10 / night after 2 guests, 
 11518931, 3, 1, 1, 2, €10, €20 / night after 2 guests, €45 / night
-11529624, No longer available,,,,,, 
 11539002, 4, 1, 2, 3, , No Charge, €59 / night
 11567687, 5, 2, 5, 5, , €20 / night after the first guest, 
 11605853, 2, 1, 1, 1, , , 
 11616056, 2, 1, 1, 1, €10, No Charge, 
 11621186, 3, 1, 1, 2, , €20 / night after 2 guests, 
 11653434, 4, 1, 1, 2, , No Charge, €65 / night
-11657766, No longer available,,,,,, 
-11674798, No longer available,,,,,, 
 11683214, 2, 1, Studio, 1, , No Charge, 
 11690874, 4, 1, 1, 2, , €5 / night after 2 guests, 
 11724843, 4, 1, 1, 2, , No Charge, €69 / night
@@ -1192,19 +1086,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 11825557, 2, 2, 1, 1, , No Charge, €35 / night
 11837866, 3, 1, 1, 2, , €7 / night after the first guest, 
 11840160, 3, 2, 3, 3, , No Charge, 
-11841747, No longer available,,,,,, 
-11846592, No longer available,,,,,, 
 11856384, 4, 1, 2, 4, , No Charge, 
-11861955, No longer available,,,,,, 
 11863385, 2, 2, 1, 1, , €9 / night after the first guest, 
-11865383, No longer available,,,,,, 
 11877622, 2, 1, 1, 2, , €15 / night after the first guest, 
 11878854, 6, 1, 2, 3, , No Charge, €79 / night
 11901942, 2, 1, 1, 1, , No Charge, 
-11903599, No longer available,,,,,, 
 11905528, 9, 1, 3, 8, €20, €10 / night after 3 guests, €48 / night
 11916772, 2, 1, 1, 1, , No Charge, 
-11917380, No longer available,,,,,, 
 11934243, 2, 1, 1, 1, , , €59 / night
 11947734, 3, 1, 1, 1, , €10 / night after 2 guests, €70 / night
 11953788, 4, 1, 1, 1, , No Charge, 
@@ -1221,11 +1109,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 12029549, 6, 1, 2, 3, , €15 / night after 2 guests, €90 / night
 12039620, 6, 1, 2, 2, , €15 / night after 2 guests, €90 / night
 12051257, 2, 1, 1, 2, , No Charge, 
-12064443, No longer available,,,,,, 
 12079089, 2, 0.5, 1, 1, , No Charge, 
 12083660, 2, 1, 1, 1, €7, No Charge, 
 12088955, 3, 1, 2, 2, , €20 / night after 2 guests, 
-12088945, No longer available,,,,,, 
 12100505, 8, 1, 1, 8, , €14 / night after the first guest, 
 12106894, 2, 2, 1, 2, , No Charge, 
 12110485, 4, 1, 1, 2, , No Charge, €75 / night
@@ -1235,17 +1121,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 12143594, 4, 1, 1, 4, , €16 / night after the first guest, 
 12143870, 8, 1, 1, 8, , €14 / night after the first guest, 
 12149574, 5, 1, 2, 3, €12, €15 / night after 2 guests, €56 / night
-12152013, No longer available,,,,,, 
 12174332, 4, 2, 2, 4, , €10 / night after 3 guests, €100 / night
 12205207, 6, 1, 2, 2, , €10 / night after 2 guests, €85 / night
 12213957, 2, 2, 1, 1, , €10 / night after the first guest, 
-12217076, No longer available,,,,,, 
 12215327, 2, 1, 1, 1, €8, No Charge, €52 / night
 12217426, 2, 1, 1, 1, , €6 / night after the first guest, 
 12216895, 2, 2, 1, 2, €10, No Charge, €58 / night
 12228151, 6, 1, 2, 4, €20, €10 / night after 3 guests, 
-12226658, No longer available,,,,,, 
-12230607, No longer available,,,,,, 
 12275131, 1, 1, 1, 1, , , 
 12278136, 4, 1, 2, 2, €10, €10 / night after 2 guests, €65 / night
 12292825, 10, 2, 4, 8, €20, €9 / night after 2 guests, 
@@ -1259,10 +1141,7 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 12349994, 2, 1, 1, 1, €12, , €119 / night
 12350639, 2, 2, 1, 1, , No Charge, 
 12350556, 2, 1, 1, 2, , No Charge, €90 / night
-12359430, No longer available,,,,,, 
-12357557, No longer available,,,,,, 
 12363812, 4, 1, 1, 2, , €20 / night after 2 guests, €55 / night
-12363733, No longer available,,,,,, 
 12378203, 2, 1, 1, 2, , No Charge, €95 / night
 12394132, 2, 1, 1, 1, , No Charge, 
 12404025, 7, 1, 5, 5, , No Charge, 
@@ -1271,10 +1150,8 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 12417971, 4, 1, 1, 2, , €10 / night after 2 guests, 
 12430318, 1, 0.5, 1, 1, , , 
 12464558, 3, 1, 1, 2, , No Charge, 
-12470874, No longer available,,,,,, 
 12472275, 4, 1, 2, 4, , No Charge, 
 12471801, 4, 1, 2, 4, , No Charge, 
-12481811, No longer available,,,,,, 
 12511361, 1, 1, 1, 1, , , 
 12512207, 4, 1, 2, 4, €5, €10 / night after 2 guests, 
 12525001, 4, 1, 2, 4, €19, No Charge, 
@@ -1324,12 +1201,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 12901574, 4, 1, 2, 4, , No Charge, €105 / night
 12901926, 10, 4, , 10, , No Charge, €375 / night
 12909901, 1, 2, 1, 1, , , 
-12922419, No longer available,,,,,, 
 12921790, 8, 2, 4, 6, , No Charge, 
-12940126, No longer available,,,,,, 
 12949485, 3, 1, 1, 1, €10, €16 / night after 2 guests, €79 / night
 12948258, 2, 1, 1, 1, , No Charge, 
-12946434, No longer available,,,,,, 
 12959008, 4, 1, 1, 2, , €10 / night after 2 guests, 
 12964979, 8, 2, 3, 5, , €15 / night after 4 guests, 
 12966823, 2, 1, 1, 1, , No Charge, 
@@ -1337,17 +1211,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 12984215, 2, 1, 1, 1, , No Charge, 
 13009679, 10, 3, 4, 7, , €20 / night after 4 guests, 
 13046189, 1, 1, 1, 1, , , €25 / night
-13052388, No longer available,,,,,, 
-13052500, No longer available,,,,,, 
-13051835, No longer available,,,,,, 
 13070813, 4, 1, 2, 3, €49, €15 / night after 3 guests, 
 13096412, 4, 1, 2, 2, €15, €15 / night after 2 guests, 
 13099064, 4, 1, Studio, 2, , No Charge, €59 / night
 13106038, 3, 1, 2, 2, , No Charge, 
 13113166, 4, 1, 2, 2, , €10 / night after 2 guests, €50 / night
 13123320, 5, 1, 2, 5, €5, €5 / night after 2 guests, 
-13136779, No longer available,,,,,, 
-13138328, No longer available,,,,,, 
 13178246, 6, 2.5, 3, 5, €73, €15 / night after 2 guests, 
 13179697, 3, 1, 2, 2, €20, , €45 / night
 13184966, 16+, 8+, 1, 8, , No Charge, 
@@ -1359,14 +1228,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13259844, 4, 2, 3, 3, , €6 / night after the first guest, €70 / night
 13306683, 4, 1, 1, 2, €10, €8 / night after 3 guests, 
 13308449, 1, 1, 1, 1, , , 
-13309141, No longer available,,,,,, 
-13308406, No longer available,,,,,, 
 13316733, 4, 1.5, 1, 2, €15, , €40 / night
-13339152, No longer available,,,,,, 
 13343267, 2, 1, 1, 2, €5, €10 / night after the first guest, 
-13343599, No longer available,,,,,, 
 13343750, 4, 1, 2, 3, , €20 / night after 2 guests, €76 / night
-13343633, No longer available,,,,,, 
 13346560, 2, 1, 1, 1, €20, No Charge, 
 13367800, 2, 2, 2, 2, , €10 / night after the first guest, 
 13372342, 3, 1.5, 1, 2, €15, No Charge, €65 / night
@@ -1374,20 +1238,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13388205, 9, 3, 4, 6, €60, €20 / night after 6 guests, 
 13391613, 2, 1, 1, 2, , €7 / night after the first guest, 
 13391818, 3, 1, 2, 2, €10, No Charge, €60 / night
-13414617, No longer available,,,,,, 
 13422311, 2, 1, 1, 1, €15, No Charge, 
 13427445, 3, 1.5, 1, 2, €15, No Charge, 
 13435114, 5, 1.5, 4, 4, €40, No Charge, 
-13442165, No longer available,,,,,, 
 13440853, 2, 1, Studio, 1, , €20 / night after the first guest, 
 13447380, 2, 1, 1, 1, , €6 / night after the first guest, 
-13483237, No longer available,,,,,, 
 13488441, 5, 1, 3, 3, €25, No Charge, 
 13505908, 4, 1, 1, 1, €15, €15 / night after 2 guests, 
 13509352, 2, 2, 1, 2, , €10 / night after the first guest, 
-13505467, No longer available,,,,,, 
 13526941, 2, 1, 1, 1, , No Charge, 
-13527555, No longer available,,,,,, 
 13542361, 2, 1, 1, 1, , No Charge, 
 13558443, 3, 1, 1, 2, €22, €16 / night after 2 guests, 
 13557743, 2, 1, 1, 2, , No Charge, €49 / night
@@ -1401,12 +1260,10 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13596020, 5, 1, 3, 3, €20, No Charge, 
 13604930, 6, 1, 2, 4, €10, €20 / night after 2 guests, €70 / night
 13605058, 4, 1, 1, 2, , €20 / night after 2 guests, 
-13611896, No longer available,,,,,, 
 13616545, 1, 1, 1, 1, , , 
 13616241, 2, 2, 1, 1, , €6 / night after the first guest, 
 13636838, 2, 2, 1, 2, , €10 / night after the first guest, 
 13646837, 3, 1, 1, 2, , No Charge, 
-13652666, No longer available,,,,,, 
 13651965, 4, 1, 2, 3, €15, €5 / night after 2 guests, 
 13651768, 14, 5, 6, 13, €100, No Charge, €300 / night
 13654858, 1, 1, 1, 1, , , 
@@ -1419,7 +1276,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13741620, 4, 1, 1, 2, €28, €5 / night after 2 guests, €44 / night
 13756613, 5, 1, 2, 3, , No Charge, €180 / night
 13765429, 2, 1, 1, 1, , No Charge, 
-13769146, No longer available,,,,,, 
 13776852, 2, 1, 1, 1, €8, No Charge, 
 13777204, 2, 1, 1, 1, €8, No Charge, 
 13794114, 2, 1, 1, 1, €10, No Charge, 
@@ -1438,7 +1294,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13909899, 2, 1, 1, 1, , No Charge, 
 13932841, 6, 1, 2, 3, €35, €10 / night after 2 guests, €90 / night
 13941080, 5, 1, 3, 3, €30, , 
-13948744, No longer available,,,,,, 
 13950403, 2, 1, 1, 2, €10, , €59 / night
 13952908, 2, 1, 1, 2, , , 
 13955143, 4, 1, 1, 2, , €10 / night after 2 guests, €47 / night
@@ -1448,7 +1303,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14034288, 5, 1, 2, 3, €20, €10 / night after 2 guests, €60 / night
 14050593, 4, 1, 2, 2, , No Charge, 
 14055918, 9, 2, 3, 4, , €10 / night after 4 guests, 
-14058772, No longer available,,,,,, 
 14061737, 4, 1, 1, 3, , No Charge, 
 14066512, 7, 2, 3, 5, , €11 / night after 6 guests, €73 / night
 14073298, 1, 1, 1, 1, , , 
@@ -1456,7 +1310,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14138121, 6, 3, 2, 2, , €10 / night after 4 guests, 
 14135948, 2, 1, Studio, 2, , No Charge, 
 14167269, 4, 1, 1, 2, €8, €20 / night after 2 guests, 
-14177674, No longer available,,,,,, 
 14180054, 13, 3, 3, 12, €40, €25 / night after 6 guests, €150 / night
 14226077, 4, 1, 2, 3, €80, €18 / night after 2 guests, 
 14252891, 5, 1, 2, 3, €30, €13 / night after 2 guests, €68 / night
@@ -1465,12 +1318,10 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14326946, 4, 1, 1, 4, , , €79 / night
 14326720, 4, 1, 1, 1, €49, €13 / night after 2 guests, 
 14339671, 4, 1, 2, 2, , €5 / night after 2 guests, 
-14346280, No longer available,,,,,, 
 14383573, 1, 1, 1, 1, , , €15 / night
 14385524, 4, 1, 1, 4, , €10 / night after 2 guests, €22 / night
 14385180, 2, 1, 1, 2, , No Charge, €23 / night
 14393582, 4, 1, 2, 2, €25, €35 / night after 2 guests, €80 / night
-14409485, No longer available,,,,,, 
 14410981, 2, 1, 1, 1, €15, No Charge, 
 14419499, 4, 1, 1, 1, , €15 / night after 2 guests, 
 14419065, 2, 1, 1, 1, €30, No Charge, €100 / night
@@ -1488,13 +1339,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14498523, 6, 1, 2, 4, €30, €10 / night after 4 guests, 
 14519682, 4, 1, 1, 2, , No Charge, €65 / night
 14520552, 8, 2, 4, 4, €35, €15 / night after 6 guests, €155 / night
-14541079, No longer available,,,,,, 
 14551973, 4, 2, 1, 2, , €15 / night after 2 guests, €28 / night
 14553532, 6, 1, 3, 5, , No Charge, 
 14553231, 2, 1, 1, 1, , , 
 14550996, 4, 2, 1, 2, , €15 / night after 2 guests, €28 / night
 14563752, 2, 1, 1, 1, €20, No Charge, €48 / night
-14588511, No longer available,,,,,, 
 14663702, 2, 1, 1, 1, , No Charge, 
 14665221, 2, 1, Studio, 1, €20, , 
 14666257, 2, 1, Studio, 1, €20, No Charge, 
@@ -1503,7 +1352,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14684245, 4, 1, 1, 1, , No Charge, 
 14681461, 2, 1, 1, 1, €10, No Charge, 
 14685716, 2, 1, Studio, 1, €20, No Charge, 
-14708626, No longer available,,,,,, 
 14711042, 2, 1, 1, 2, , No Charge, 
 14738462, 3, 1, 1, 1, €18, €10 / night after 2 guests, €60 / night
 14756413, 2, 2, 1, 1, , No Charge, 
@@ -1524,7 +1372,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14893364, 5, 2, 2, 3, , No Charge, €70 / night
 14894575, 5, 1, 1, 4, €35, €33 / night after 2 guests, €110 / night
 14906790, 6, 1, 2, 3, €30, €14 / night after 2 guests, €55 / night
-14907840, No longer available,,,,,, 
 14907670, 3, 1, 1, 1, , €10 / night after 2 guests, 
 14908214, 2, 1, Studio, 1, , No Charge, 
 14922215, 4, 1, 1, 2, €30, €10 / night after 2 guests, €50 / night
@@ -1544,28 +1391,18 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15005301, 4, 1, 1, 1, , €15 / night after 2 guests, €67 / night
 15013353, 4, 1, 2, 4, , No Charge, 
 15023970, 2, 1, 1, 1, , No Charge, 
-15034470, No longer available,,,,,, 
 15037357, 1, 1, 1, 1, , , 
 15056494, 6, 1, 2, 4, , €14 / night after 2 guests, 
 15082713, 2, 1, 1, 2, €5, , 
-15092961, No longer available,,,,,, 
 15097944, 8, 1, 3, 6, €60, , €329 / night
 15102560, 2, 1, 1, 1, , €5 / night after the first guest, €40 / night
-15104926, No longer available,,,,,, 
-15110274, No longer available,,,,,, 
-15118864, No longer available,,,,,, 
 15129819, 4, 1, 1, 3, , , €65 / night
-15126557, No longer available,,,,,, 
 15128168, 1, 1, 1, 1, , , 
 15127512, 1, 2, 1, 1, , , 
 15127520, 2, 1, 1, 1, , No Charge, 
 15138411, 12, 2, 3, 8, , €10 / night after 6 guests, €88 / night
 15146088, 4, 1, 2, 2, , €17 / night after 2 guests, €65 / night
 15152459, 3, 1, 1, 3, , €10 / night after 2 guests, 
-15157046, No longer available,,,,,, 
-15162189, No longer available,,,,,, 
-15163615, No longer available,,,,,, 
-15161939, No longer available,,,,,, 
 15179958, 8, 2, 4, 6, €10, €10 / night after 2 guests, €85 / night
 15197736, 2, 1, 1, 1, , No Charge, 
 15202529, 1, 1, 1, 1, €7, , €20 / night
@@ -1575,20 +1412,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15227273, 2, 1, 1, 1, €35, No Charge, 
 15225958, 8, 3, 3, 5, €60, No Charge, €240 / night
 15231624, 4, 1, 2, 2, , €5 / night after 2 guests, €55 / night
-15234983, No longer available,,,,,, 
 15236245, 2, 1, 1, 1, €10, No Charge, €50 / night
-15235527, No longer available,,,,,, 
 15245272, 5, 1, 3, 3, €18, €10 / night after 4 guests, €55 / night
 15246562, 3, 1, 1, 3, , €10 / night after 2 guests, 
 15254901, 2, 1, 1, 1, , No Charge, 
 15251909, 5, 2, 3, 4, €15, €20 / night after 2 guests, 
-15266620, No longer available,,,,,, 
-15276662, No longer available,,,,,, 
 15280474, 4, 2, 1, 2, €20, €15 / night after 2 guests, 
-15283235, No longer available,,,,,, 
 15282495, 2, 1, 1, 1, , No Charge, €15 / night
-15293792, No longer available,,,,,, 
-15291936, No longer available,,,,,, 
 15293155, 2, 1, 1, 2, €14, €6 / night after the first guest, 
 15298355, 4, 1, 2, 3, €17, No Charge, €80 / night
 15303830, 2, 1, 1, 2, , No Charge, 
@@ -1600,27 +1430,22 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15326333, 3, 1.5, 1, 2, , , 
 15339420, 2, 1, 2, 1, , No Charge, 
 15337455, 1, 1, 1, 1, , , 
-15335627, No longer available,,,,,, 
 15357568, 4, 1, 1, 4, , €16 / night after the first guest, €25 / night
 15355157, 5, 1, 2, 5, , No Charge, €66 / night
 15373559, 2, 1, 1, 2, , No Charge, 
 15371701, 4, 1, 1, 2, €10, €10 / night after 2 guests, 
-15387864, No longer available,,,,,, 
 15393141, 6, 1, 2, 5, , , 
 15394997, 2, 1, 1, 2, , €20 / night after the first guest, 
 15401048, 2, 2, 2, 3, , , 
 15418462, 2, 1, 1, 1, , No Charge, 
-15429679, No longer available,,,,,, 
 15431082, 2, 1.5, 1, 2, , No Charge, 
 15435535, 2, 1, 1, 1, , No Charge, 
 15442116, 8, 2, 4, 8, €36, €25 / night after 2 guests, €87 / night
 15441982, 4, 2, 3, 5, €35, , €105 / night
 15447465, 2, 1, 1, 1, , No Charge, 
-15458412, No longer available,,,,,, 
 15457333, 4, 1, 1, 2, €10, €10 / night after 2 guests, 
 15458427, 2, 1, 1, 1, , No Charge, 
 15467564, 1, 1, 1, 2, , , 
-15474660, No longer available,,,,,, 
 15474267, 6, 1, 2, 3, , No Charge, 
 15475687, 1, 2, 1, 1, €5, , 
 15479779, 4, 1, 2, 3, €12, €18 / night after 2 guests, €70 / night
@@ -1629,11 +1454,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15493470, 2, 1, 1, 2, , €6 / night after the first guest, 
 15504769, 2, 1, 1, 1, €9, No Charge, €45 / night
 15504498, 4, 1, 2, 2, €9, €10 / night after 2 guests, €55 / night
-15541076, No longer available,,,,,, 
 15555222, 5, 1, 2, 2, , €10 / night after 2 guests, 
 15575057, 5, 1, 2, 5, €11, €8 / night after the first guest, €48 / night
 15576923, 4, 1, 3, 3, €30, €20 / night after 2 guests, €40 / night
-15579088, No longer available,,,,,, 
 15583740, 2, 1, 1, 1, , €10 / night after the first guest, 
 15585273, 1, 1, 1, 1, , , 
 15594456, 6, 1, 2, 2, €10, €20 / night after 2 guests, €69 / night
@@ -1657,14 +1480,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15763077, 3, 1, 1, 1, , No Charge, €59 / night
 15763030, 6, 2, 3, 6, , €20 / night after 4 guests, €170 / night
 15767880, 4, 1, 3, 3, €10, €20 / night after 2 guests, 
-15778625, No longer available,,,,,, 
 15786656, 1, 1, 1, 1, , , 
 15785049, 1, 1, 1, 1, , , 
 15786473, 1, 1, 1, 1, , , €25 / night
 15786123, 1, 1, 1, 1, , , 
 15786915, 1, 1, 1, 1, , , 
 15801732, 5, 1, 3, 4, €15, No Charge, 
-15809719, No longer available,,,,,, 
 15813832, 4, 1, 1, 2, , No Charge, 
 15811027, 13, 2, 4, 10, , €10 / night after 6 guests, €88 / night
 15815393, 6, 1, 3, 4, €15, €9 / night after 2 guests, 
@@ -1673,22 +1494,17 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15829930, 1, 1, 1, 1, , , 
 15831309, 2, 1, 1, 1, , No Charge, 
 15837773, 13, 3, 3, 12, , €20 / night after 4 guests, €100 / night
-15842625, No longer available,,,,,, 
 15840042, 2, 1, 1, 1, , €9 / night after the first guest, €15 / night
 15849784, 2, 1, 1, 1, €4, €6 / night after the first guest, €18 / night
-15853248, No longer available,,,,,, 
 15863227, 2, 1, 1, 1, , No Charge, 
 15863338, 5, 1, 1, 3, , No Charge, €80 / night
 15868560, 3, 1, 1, 3, , No Charge, 
-15870404, No longer available,,,,,, 
 15878984, 4, 1, 1, 2, , No Charge, €68 / night
 15879811, 5, 1, 2, 5, , €15 / night after the first guest, 
 15884242, 6, 2, 3, 4, €35, No Charge, €150 / night
 15883753, 2, 1, 1, 1, , €5 / night after the first guest, 
-15883529, No longer available,,,,,, 
 15887448, 6, 1, 3, 5, , No Charge, €120 / night
 15900248, 3, 1, 1, 1, , No Charge, €59 / night
-15901088, No longer available,,,,,, 
 15907981, 5, 1, 1, 4, , No Charge, 
 15913666, 2, 1, 1, 1, , No Charge, 
 15911695, 4, 1, 1, 3, €25, €15 / night after 2 guests, €55 / night
@@ -1700,8 +1516,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15934842, 16+, 6, 6, 16, €60, €25 / night after 15 guests, €320 / night
 15938320, 2, 1, 1, 2, , €5 / night after the first guest, 
 15938968, 2, 1, 1, 1, , No Charge, 
-15941089, No longer available,,,,,, 
-15949909, No longer available,,,,,, 
 15948782, 1, 1, 1, 1, €5, , 
 15953177, 2, 1, 1, 1, , No Charge, 
 15963601, 7, 2, 3, 4, €15, €20 / night after 2 guests, €30 / night
@@ -1725,11 +1539,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16065256, 6, 1, 2, 4, , €13 / night after 2 guests, €100 / night
 16078536, 1, 1, 1, 1, , , 
 16077881, 4, 1, 2, 2, €10, €10 / night after 2 guests, €50 / night
-16079667, No longer available,,,,,, 
 16082926, 4, 1, 1, 2, €10, €10 / night after 2 guests, 
 16097862, 4, 1.5, 2, 4, , €10 / night after 2 guests, €85 / night
 16099031, 2, 1, 1, 2, €6, €13 / night after the first guest, €22 / night
-16097908, No longer available,,,,,, 
 16104115, 5, 1, 1, 2, €15, No Charge, €70 / night
 16104216, 2, 1, Studio, 1, €20, No Charge, 
 16104828, 6, 2, 3, 5, €99, €18 / night after 2 guests, 
@@ -1737,13 +1549,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16110847, 2, 1, 1, 1, , No Charge, 
 16120850, 6, 2, 2, 3, , €15 / night after 4 guests, €85 / night
 16122739, 10, 2, 3, 5, , €12 / night after 7 guests, €220 / night
-16131217, No longer available,,,,,, 
 16159206, 8, 2, 3, 5, , No Charge, €199 / night
 16158348, 4, 1, 1, 2, €10, No Charge, 
 16160144, 4, 1, 1, 1, €10, No Charge, 
 16160941, 3, 1, 1, 3, €10, €10 / night after 2 guests, €30 / night
 16167874, 2, 1, Studio, 2, €12, No Charge, €50 / night
-16168376, No longer available,,,,,, 
 16171122, 6, 1, 4, 6, , No Charge, 
 16172550, 2, 1, 1, 1, €19, No Charge, €68 / night
 16175297, 2, 1, Studio, 1, €26, , 
@@ -1753,43 +1563,24 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16188696, 4, 1, 1, 1, , €5 / night after 2 guests, €79 / night
 16187759, 5, 1, 2, 4, , €25 / night after 2 guests, €65 / night
 16192136, 1, 1, 1, 1, , , 
-16191723, No longer available,,,,,, 
 16197623, 7, 1, 3, 7, €19, €15 / night after 4 guests, 
-16200343, No longer available,,,,,, 
-16204267, No longer available,,,,,, 
 16213747, 3, 1, 1, 2, €15, €15 / night after 2 guests, 
-16212059, No longer available,,,,,, 
-16212286, No longer available,,,,,, 
-16212140, No longer available,,,,,, 
-16210893, No longer available,,,,,, 
-16212210, No longer available,,,,,, 
-16210731, No longer available,,,,,, 
 16216251, 2, 1.5, 1, 1, , No Charge, 
-16218199, No longer available,,,,,, 
-16228703, No longer available,,,,,, 
 16229834, 4, 1, 2, 3, , , €72 / night
-16229824, No longer available,,,,,, 
 16239183, 3, 1, 1, 2, , €18 / night after the first guest, €23 / night
 16240687, 4, 1, 1, 2, , €20 / night after 2 guests, €90 / night
 16241986, 1, 1, 1, 1, €15, , 
 16248148, 4, 1.5, 2, 2, €40, , 
 16255010, 2, 1, 2, 3, , €10 / night after the first guest, €80 / night
-16266285, No longer available,,,,,, 
 16270530, 2, 1, 1, 2, , No Charge, 
-16279176, No longer available,,,,,, 
 16286145, 4, 1, 1, 1, , €14 / night after 2 guests, 
-16287140, No longer available,,,,,, 
 16295991, 2, 2, 1, 2, , No Charge, 
-16296687, No longer available,,,,,, 
 16295713, 4, 1, 2, 3, €30, €7 / night after 2 guests, €110 / night
 16305389, 5, 1, 1, 4, €20, No Charge, 
 16329400, 6, 1, 2, 2, €10, €5 / night after 2 guests, 
 16333694, 4, 1, 2, 3, , No Charge, €120 / night
 16335669, 9, 2, 3, 8, €25, €10 / night after 6 guests, €120 / night
 16343152, 16+, 8+, 8, 16, , No Charge, 
-16343174, No longer available,,,,,, 
-16372399, No longer available,,,,,, 
-16376779, No longer available,,,,,, 
 16384754, 4, 1, 1, 2, €15, €12 / night after 2 guests, €38 / night
 16390415, 6, 2.5, 3, 5, , No Charge, 
 16397117, 6, 1, 2, 3, , €20 / night after 4 guests, €130 / night
@@ -1800,7 +1591,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16445659, 4, 1, 1, 2, €12, No Charge, 
 16447879, 5, 1, 2, 5, €19, €10 / night after 4 guests, 
 16448788, 2, 2, 1, 1, , No Charge, 
-16464034, No longer available,,,,,, 
 16463715, 4, 1, 2, 2, , No Charge, €109 / night
 16461736, 2, 1, 1, 1, , No Charge, 
 16474693, 6, 1, 2, 3, , No Charge, 
@@ -1808,25 +1598,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16484956, 7, 1, 2, 5, €25, €25 / night after 3 guests, €112 / night
 16489375, 2, 3, 1, 2, , , €80 / night
 16488062, 4, 1, 1, 2, , €10 / night after 2 guests, 
-16488909, No longer available,,,,,, 
 16489271, 3, 3, 1, 2, , €30 / night after 2 guests, €85 / night
-16497518, No longer available,,,,,, 
 16497483, 2, 1, 1, 1, , No Charge, 
-16498107, No longer available,,,,,, 
-16501404, No longer available,,,,,, 
 16524017, 2, 1, 1, 2, , €5 / night after the first guest, 
 16524066, 4, 1, 2, 3, €19, No Charge, €75 / night
-16520743, No longer available,,,,,, 
 16527109, 2, 1, 1, 1, , No Charge, 
 16543241, 2, 1, 1, 1, , No Charge, 
-16569995, No longer available,,,,,, 
-16570218, No longer available,,,,,, 
-16576878, No longer available,,,,,, 
 16595589, 1, 2, 1, 1, , , 
-16608287, No longer available,,,,,, 
 16625276, 3, 2, 1, 1, , €11 / night after the first guest, 
 16625864, 2, 1, 1, 1, €10, €5 / night after the first guest, €20 / night
-16630056, No longer available,,,,,, 
 16643292, 4, 1, 1, 2, , No Charge, 
 16645825, 12, 3, 3, 8, €50, €15 / night after 6 guests, €170 / night
 16647586, 2, 1, 1, 1, , €16 / night after the first guest, 
@@ -1834,7 +1614,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16697406, 4, 1, 2, 3, €21, No Charge, €75 / night
 16695507, 8, 1, 2, 2, , No Charge, 
 16702274, 3, 1, 1, 2, , €10 / night after 2 guests, €65 / night
-16702833, No longer available,,,,,, 
 16702214, 2, 1, 1, 2, €30, No Charge, €65 / night
 16720801, 4, 2, 2, 2, €20, €15 / night after 2 guests, 
 16723072, 1, 1, 1, 1, , , 
@@ -1844,16 +1623,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16738879, 6, 2, 2, 2, €20, €20 / night after 4 guests, €75 / night
 16735944, 6, 1, 2, 4, , €10 / night after 4 guests, €60 / night
 16736330, 1, 1, 1, 1, €10, , €50 / night
-16742370, No longer available,,,,,, 
 16746933, 2, 2, 1, 2, , €20 / night after the first guest, 
 16751631, 4, 1, 1, 2, , €15 / night after 2 guests, €89 / night
 16772447, 4, 1, 2, 3, , €6 / night after the first guest, €19 / night
 16773786, 4, 2, 2, 3, , No Charge, 
-16776437, No longer available,,,,,, 
 16777134, 5, 1, 3, 4, , €5 / night after 2 guests, €79 / night
 16817288, 6, 1, 2, 4, €10, No Charge, 
 16817491, 4, 1, 1, 1, €15, €20 / night after 2 guests, €51 / night
-16822625, No longer available,,,,,, 
 16821214, 2, 1, 2, 2, , No Charge, 
 16849984, 4, 1, 1, 1, , No Charge, €78 / night
 16853831, 4, 1, 1, 2, , No Charge, 
@@ -1862,44 +1638,29 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16901937, 5, 1, 2, 4, €25, €20 / night after 2 guests, 
 16919943, 4, 1, 1, 2, €30, No Charge, €120 / night
 16920583, 2, 1, 1, 1, €5, €15 / night after the first guest, €35 / night
-16924022, No longer available,,,,,, 
 16927451, 6, 2, 3, 3, €25, €10 / night after 4 guests, €79 / night
 16926921, 4, 1, 1, 2, , No Charge, 
 16926850, 6, 1, 2, 3, , €15 / night after 2 guests, 
 16930322, 4, 1, 2, 4, €30, €10 / night after 2 guests, €99 / night
 16934183, 3, 1, 2, 2, €25, No Charge, 
-16937839, No longer available,,,,,, 
 16936432, 6, 1, 3, 5, , €10 / night after 2 guests, 
-16943038, No longer available,,,,,, 
-16940069, No longer available,,,,,, 
 16940060, 5, 1, 3, 4, €15, €10 / night after 3 guests, €65 / night
 16945560, 5, 1, 1, 3, , No Charge, €80 / night
-16954736, No longer available,,,,,, 
 16962391, 3, 2, 1, 2, €10, €5 / night after 2 guests, €15 / night
-16963309, No longer available,,,,,, 
 16969274, 2, 1, 1, 2, , No Charge, 
-16979537, No longer available,,,,,, 
 16982416, 5, 1, 1, 2, , No Charge, 
-17008054, No longer available,,,,,, 
-17019872, No longer available,,,,,, 
 17024394, 2, 1, 1, 1, , No Charge, 
 17028368, 2, 1, 1, 1, , No Charge, 
 17039300, 4, 1, Studio, 2, , No Charge, 
 17039341, 9, 1, 3, 6, €30, €15 / night after 4 guests, €110 / night
 17044811, 3, 1, 1, 2, €15, €15 / night after 2 guests, 
 17049215, 6, 1, 2, 4, , €15 / night after 4 guests, 
-17085806, No longer available,,,,,, 
 17106142, 4, 1, 1, 1, €20, €10 / night after 2 guests, 
 17107985, 5, 2, 3, 3, , No Charge, 
-17107654, No longer available,,,,,, 
-17114367, No longer available,,,,,, 
-17122476, No longer available,,,,,, 
 17132797, 8, 1, 2, 6, , €5 / night after 6 guests, €90 / night
 17137078, 3, 1, 1, 2, , €10 / night after 2 guests, €48 / night
-17151742, No longer available,,,,,, 
 17155530, 6, 3, 2, 5, , €22 / night after the first guest, 
 17166102, 6, 1, 2, 3, , €20 / night after 2 guests, 
-17165947, No longer available,,,,,, 
 17170118, 4, 1, 1, 1, €25, €10 / night after 2 guests, €60 / night
 17171134, 4, 1, 1, 2, €35, €12 / night after 2 guests, €60 / night
 17171745, 7, 2, 2, 3, €20, No Charge, €80 / night
@@ -1909,7 +1670,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17219114, 6, 1, 3, 3, €15, €10 / night after 2 guests, €60 / night
 17233705, 5, 2, 3, 3, , No Charge, €195 / night
 17235509, 2, 1, 1, 1, , No Charge, 
-17237052, No longer available,,,,,, 
 17245714, 7, 2, 3, 5, , €25 / night after 2 guests, €140 / night
 17245870, 4, 1, 1, 2, , No Charge, 
 17252918, 2, 2, 2, 2, , No Charge, 
@@ -1920,18 +1680,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17281951, 4, 1, 1, 2, €20, €10 / night after 2 guests, 
 17282124, 2, 1, Studio, 1, €5, No Charge, 
 17282070, 4, 1, 2, 3, , €8 / night after 2 guests, €60 / night
-17294302, No longer available,,,,,, 
 17291389, 2, 1, 1, 1, , No Charge, 
 17298830, 4, 1, 2, 3, €30, €15 / night after 2 guests, 
 17295396, 6, 1, 1, 3, , No Charge, 
-17300696, No longer available,,,,,, 
 17301782, 1, 1, 1, 1, , , €25 / night
-17314748, No longer available,,,,,, 
 17317977, 2, 1, 1, 1, , No Charge, €39 / night
-17332079, No longer available,,,,,, 
 17337469, 1, 1, Studio, 1, €8, , 
 17339920, 2, 1, 1, 1, €20, No Charge, 
-17337221, No longer available,,,,,, 
 17336334, 4, 1, 1, 1, , €12 / night after 2 guests, €110 / night
 17347018, 2, 1, 1, 1, , , 
 17359407, 2, 1, 1, 1, , No Charge, 
@@ -1944,31 +1699,22 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17392931, 2, 1, 1, 1, , No Charge, 
 17391677, 4, 1, 1, 3, , €15 / night after 2 guests, €93 / night
 17392065, 6, 1, 2, 5, , €15 / night after the first guest, €128 / night
-17398170, No longer available,,,,,, 
 17405329, 3, 1, 1, 3, , No Charge, €60 / night
 17412344, 3, 1, 2, 3, , €16 / night after the first guest, 
 17418001, 2, 1, 2, 2, , No Charge, 
-17420715, No longer available,,,,,, 
 17427813, 7, 1, 2, 7, , €15 / night after 2 guests, €130 / night
 17430000, 4, 1, 1, 1, €15, No Charge, €45 / night
 17428986, 1, 1, 1, 1, , , 
-17429826, No longer available,,,,,, 
 17443749, 3, 1.5, 1, 2, €15, €15 / night after 2 guests, 
-17447516, No longer available,,,,,, 
-17445073, No longer available,,,,,, 
 17455321, 3, 1, 1, 2, €10, €20 / night after the first guest, 
 17476053, 4, 1, 2, 3, €27, €10 / night after 3 guests, 
 17486740, 1, 1, 1, 1, , , 
-17493504, No longer available,,,,,, 
 17503552, 4, 2, 2, 2, €12, €10 / night after 2 guests, €48 / night
-17503704, No longer available,,,,,, 
-17506089, No longer available,,,,,, 
 17508825, 2, 1, 1, 2, , No Charge, 
 17509584, 2, 1, 3, 3, €23, , 
 17505333, 2, 1, 1, 1, , €8 / night after the first guest, 
 17511877, 4, 1, 1, 1, €15, No Charge, 
 17524168, 2, 1, 1, 1, , , 
-17528833, No longer available,,,,,, 
 17528912, 4, 1, 2, 2, , €15 / night after 2 guests, 
 17537898, 2, 1, 1, 2, , No Charge, 
 17541315, 6, 1, 2, 3, , €14 / night after 2 guests, €57 / night
@@ -1979,26 +1725,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17563240, 4, 2, 1, 3, €30, €20 / night after 2 guests, 
 17562084, 2, 1, 1, 1, , No Charge, 
 17563241, 2, 1, Studio, 1, , No Charge, 
-17563257, No longer available,,,,,, 
-17565054, No longer available,,,,,, 
 17572428, 4, 1, 1, 2, €10, No Charge, €86 / night
 17572096, 5, 1, 3, 3, €25, €20 / night after 2 guests, €100 / night
 17579467, 4, 1, 1, 1, €30, €10 / night after 2 guests, €50 / night
 17579732, 1, 1, 1, 1, , , 
 17582578, 2, 1, 1, 1, , No Charge, 
-17580884, No longer available,,,,,, 
-17586063, No longer available,,,,,, 
-17587442, No longer available,,,,,, 
-17585932, No longer available,,,,,, 
 17585922, 4, 1, 2, 2, , No Charge, 
-17591414, No longer available,,,,,, 
 17590054, 2, 2, 1, 1, , €5 / night after the first guest, 
-17596723, No longer available,,,,,, 
 17599323, 4, 1, 1, 2, , No Charge, 
-17598170, No longer available,,,,,, 
-17600482, No longer available,,,,,, 
 17603492, 6, 1, 1, 3, , No Charge, 
-17607773, No longer available,,,,,, 
 17614979, 4, 2, 3, 3, €40, €10 / night after 2 guests, 
 17617982, 2, 2, 1, 2, , No Charge, 
 17618793, 6, 1, 2, 3, , No Charge, €90 / night
@@ -2009,57 +1744,33 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17651834, 1, 1.5, 1, 1, , , 
 17654856, 2, 1, 1, 1, , No Charge, €65 / night
 17665079, 4, 1, 1, 2, , €17 / night after the first guest, 
-17680472, No longer available,,,,,, 
 17680326, 2, 1, 1, 1, , €6 / night after the first guest, €22 / night
 17682272, 4, 1, 3, 3, €20, , €70 / night
-17689569, No longer available,,,,,, 
 17689934, 2, 1.5, 1, 1, €5, €9 / night after the first guest, €30 / night
-17689916, No longer available,,,,,, 
 17691460, 1, 1.5, 1, 1, , , 
 17699552, 4, 1, 3, 3, , No Charge, 
-17696619, No longer available,,,,,, 
-17696957, No longer available,,,,,, 
-17708157, No longer available,,,,,, 
 17705494, 4, 1, 1, 1, €20, €15 / night after 2 guests, €60 / night
-17708612, No longer available,,,,,, 
 17712438, 4, 1, 1, 2, €10, €10 / night after 2 guests, 
 17712641, 3, 1, 1, 1, , No Charge, 
 17718135, 12, 2, 4, 6, €35, €25 / night after 6 guests, €220 / night
-17728946, No longer available,,,,,, 
 17725779, 4, 1, 2, 3, €19, No Charge, €75 / night
-17728530, No longer available,,,,,, 
-17731944, No longer available,,,,,, 
-17730139, No longer available,,,,,, 
 17734548, 5, 2, 3, 4, €30, No Charge, 
 17734402, 1, 1, 1, 1, , , 
 17735191, 4, 1, 3, 3, , €15 / night after 2 guests, €45 / night
 17744008, 2, 1, 1, 1, €20, No Charge, €60 / night
-17744361, No longer available,,,,,, 
-17756560, No longer available,,,,,, 
 17756662, 2, 1, 1, 1, , No Charge, 
-17761384, No longer available,,,,,, 
-17764914, No longer available,,,,,, 
 17763088, 2, 1, 1, 1, , €15 / night after the first guest, 
 17777644, 2, 1, 1, 1, €5, €10 / night after the first guest, €30 / night
-17783729, No longer available,,,,,, 
-17781726, No longer available,,,,,, 
 17828321, 6, 2, 3, 6, €10, €15 / night after 2 guests, €55 / night
 17835382, 4, 2, 2, 2, €73, €20 / night after 3 guests, 
 17835756, 2, 1.5, 1, 1, , No Charge, 
-17842918, No longer available,,,,,, 
-17864891, No longer available,,,,,, 
 17864858, 4, 1, 1, 1, , €5 / night after 2 guests, 
 17863923, 3, 1, 2, 3, €10, €10 / night after 2 guests, €28 / night
-17870749, No longer available,,,,,, 
 17883965, 4, 2, 2, 2, , No Charge, 
 17885831, 4, 1, 1, 1, €20, €10 / night after 2 guests, €47 / night
 17887748, 6, 1, 1, 3, €30, €10 / night after 2 guests, 
 17887128, 6, 1, 3, 6, €20, €20 / night after 5 guests, 
-17885838, No longer available,,,,,, 
-17890711, No longer available,,,,,, 
-17893594, No longer available,,,,,, 
 17900214, 4, 1, 2, 2, €15, No Charge, €65 / night
-17900898, No longer available,,,,,, 
 17920263, 6, 1, 2, 3, , €10 / night after 2 guests, €100 / night
 17926463, 2, 1, 1, 1, , No Charge, €65 / night
 17933327, 5, 1.5, 3, 4, €35, €12 / night after 2 guests, €60 / night
@@ -2067,15 +1778,10 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17940917, 3, 1, 1, 2, €15, , 
 17941346, 2, 1, 2, 1, , No Charge, 
 17949303, 4, 2, 2, 2, €15, €15 / night after 2 guests, €60 / night
-17951954, No longer available,,,,,, 
 17956762, 2, 1, 1, 3, , No Charge, 
-17961285, No longer available,,,,,, 
 17961625, 5, 1, 1, 3, €25, €15 / night after 2 guests, 
 17979520, 4, 1, 2, 2, €20, €12 / night after 2 guests, 
-17993770, No longer available,,,,,, 
 18020577, 2, 1, 1, 1, , No Charge, 
-18033480, No longer available,,,,,, 
-18037027, No longer available,,,,,, 
 18047099, 2, 2, 1, 1, , No Charge, 
 18052995, 2, 1, 1, 1, , , 
 18051418, 2, 1, Studio, 1, €10, No Charge, €28 / night
@@ -2083,16 +1789,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 18058724, 2, 1, 1, 1, , No Charge, 
 18057925, 1, 1, 1, 1, €30, , 
 18063971, 5, 3, 3, 3, , €50 / night after 4 guests, 
-18064891, No longer available,,,,,, 
 18069117, 5, 1, 1, 4, €15, €7 / night after 2 guests, €59 / night
 18066549, 8, 3, 4, 7, , €50 / night after 6 guests, €300 / night
 18072270, 6, 2.5, 3, 4, €80, €30 / night after 4 guests, 
-18075888, No longer available,,,,,, 
-18083845, No longer available,,,,,, 
 18082405, 2, 1, 2, 1, €15, , €50 / night
 18082790, 5, 1, 2, 3, €7, €10 / night after 3 guests, €55 / night
 18084422, 2, 1, 1, 2, , No Charge, 
-18088299, No longer available,,,,,, 
 18104801, 2, 1, 1, 1, , No Charge, 
 18108305, 2, 1, 1, 1, , No Charge, 
 18117904, 6, 1, 2, 3, , No Charge, €79 / night
@@ -2105,7 +1807,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 18311050, 5, 1, 2, 3, €20, No Charge, €80 / night
 18310604, 5, 1, 2, 2, €35, No Charge, €55 / night
 18424226, 1, 2, 1, 4, , , 
-18450251, No longer available,,,,,, 
 18614514, 7, 2, 5, 7, , €10 / night after 5 guests,
 5591509, 6, 1, 1, 3, €23, €20 / night after 2 guests, 
 5646952, 2, 1, 1, 1, , , 
@@ -2115,19 +1816,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 8145490, 2, 2, 1, 2, , , €35 / night
 8336282, 2, 1, 1, 1, €10, No Charge, €34 / night
 8628884, 3, 1, 1, 2, , No Charge, 
-8946521, No longer available,,,,,, 
 9143672, 2, 1, 1, 2, €12, No Charge, €27 / night
 9287001, 4, 1, 3, 3, €25, No Charge, 
-9610174, No longer available,,,,,, 
 10692576, 2, 1, 1, 1, €20, No Charge, €59 / night
 11315935, 2, 1, 1, 1, , , €40 / night
 11342237, 4, 1, 1, 2, , €20 / night after 2 guests, 
 11468048, 4, 1, 1, 2, , €12 / night after 2 guests, 
 11578952, 2, 1, 1, 1, , , €20 / night
-11976779, No longer available,,,,,, 
 12409701, 2, 1, 1, 1, , No Charge, 
 12818519, 2, 1, 1, 1, , €10 / night after the first guest, 
-13427407, No longer available,,,,,, 
 13458366, 2, 2, 1, 1, , €5 / night after the first guest, €25 / night
 13679287, 3, 2, 1, 3, , No Charge, 
 13730721, 5, 1, 3, 3, , €5 / night after 2 guests, 
@@ -2143,16 +1840,13 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14583489, 3, 2, 3, 3, , No Charge, 
 14820864, 4, 1, 1, 2, €10, €10 / night after 2 guests, 
 14899798, 4, 1.5, 2, 2, , No Charge, 
-14906436, No longer available,,,,,, 
 15083302, 2, 1, 1, 1, , , 
 15104547, 4, 1, 1, 2, €75, €15 / night after 2 guests, €75 / night
 15142802, 3, 1, 1, 2, , €8 / night after the first guest, 
 15176275, 2, 2, 1, 1, €5, No Charge, 
-15276306, No longer available,,,,,, 
 15368106, 4, 1, 2, 2, , €12 / night after 2 guests, €39 / night
 15387552, 2, 0.5, 1, 1, , €15 / night after the first guest, €33 / night
 15443162, 6, 2, 3, 6, €20, No Charge, 
-15458613, No longer available,,,,,, 
 15617197, 3, 2, 1, 1, €30, €10 / night after the first guest, €50 / night
 15642190, 6, 1, 2, 6, €35, €33 / night after 2 guests, €120 / night
 15803879, 2, 1, 1, 1, €9, No Charge, €50 / night
@@ -2166,7 +1860,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16002694, 1, 1, 1, 1, €5, , 
 16093067, 6, 1, 2, 4, , No Charge, 
 16159823, 4, 1, 1, 1, €10, €5 / night after 2 guests, €40 / night
-16212137, No longer available,,,,,, 
 16248511, 1, 1, 1, 1, , , 
 16255269, 7, 2, 3, 4, €25, €10 / night after 5 guests, 
 16398661, 4, 1, 2, 3, €15, €15 / night after 2 guests, €50 / night
@@ -2181,16 +1874,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 16890188, 2, 1, 1, 1, , No Charge, 
 16924167, 7, 1, 3, 5, , No Charge, 
 16944123, 2, 3, Studio, 1, , , €80 / night
-16955803, No longer available,,,,,, 
 16969276, 1, 1, 1, 1, , , 
 17108441, 4, 1, 1, 3, , No Charge, €65 / night
 17135450, 1, 1, 1, 1, , , 
 17166277, 4, 1, 1, 1, , No Charge, €80 / night
 17265688, 6, 1.5, 3, 5, €15, No Charge, 
-17523118, No longer available,,,,,, 
 17543037, 4, 1, 1, 1, €10, No Charge, 
-17589985, No longer available,,,,,, 
-17623307, No longer available,,,,,, 
 17684125, 2, 1, 1, 1, , No Charge, 
 17707391, 6, 2, 3, 4, , , €200 / night
 17724675, 4, 1, 1, 2, , No Charge, 
@@ -2198,13 +1887,9 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17806991, 2, 1, 1, 1, , No Charge, 
 17818969, 3, 1, 1, 2, , No Charge, 
 17826636, 2, 1, 1, 1, €14, No Charge, 
-17848520, No longer available,,,,,, 
 17856175, 5, 1, 3, 3, €15, No Charge, 
-17892318, No longer available,,,,,, 
-17904910, No longer available,,,,,, 
 17905587, 8, 1, 3, 3, , €15 / night after 2 guests, €95 / night
 17920892, 2, 1, 1, 1, , No Charge, 
-17933572, No longer available,,,,,, 
 17937585, 4, 2, 2, 2, €15, €15 / night after 2 guests, €50 / night
 17936229, 2, 1, 1, 1, , No Charge, 
 17943618, 2, 1, 1, 2, , No Charge, 
@@ -2215,15 +1900,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17968245, 2, 1.5, 1, 1, , No Charge, €21 / night
 17979412, 4, 1, 1, 2, €20, €12 / night after 2 guests, 
 17990049, 1, 1, 1, 1, €8, , €22 / night
-17990139, No longer available,,,,,, 
 18023469, 2, 1, 1, 1, , , 
 18040452, 8, 1, 3, 6, €20, €12 / night after 4 guests, €70 / night
 18046792, 2, 1, 1, 1, , , 
-18054931, No longer available,,,,,, 
-18050795, No longer available,,,,,, 
 18063235, 4, 1, 2, 3, €10, , 
 18076587, 2, 1, 1, 1, , No Charge, 
-18075761, No longer available,,,,,, 
 18083419, 2, 1, 1, 1, , No Charge, 
 18083680, 5, 1, 2, 2, €18, €9 / night after 4 guests, €59 / night
 18084455, 4, 1, 1, 2, €13, €10 / night after 2 guests, €90 / night
@@ -2235,7 +1916,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 18464789, 4, 2, 2, 3, €25, , €55 / night
 18581638, 4, 1, 1, 1, €30, €25 / night after 2 guests, 
 5866602, 4, 1, 1, 2, , €15 / night after 2 guests, 
-5967239, No longer available,,,,,, 
 6130978, 6, 2.5, 3, 4, €40, No Charge, 
 6165001, 4, 1, 3, 3, , No Charge, 
 6845489, 1, 1, 1, 1, €6, , 
@@ -2247,9 +1927,7 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 9153671, 2, 2, 1, 1, , €6 / night after the first guest, 
 9381443, 1, 2, 1, 1, , , 
 9766188, 4, 1, 1, 4, , No Charge, €88 / night
-10239085, No longer available,,,,,, 
 10764776, 2, 1, Studio, 1, €12, No Charge, 
-11014105, No longer available,,,,,, 
 11029258, 2, 1, 1, 1, €25, No Charge, €50 / night
 11389653, 4, 1, 2, 2, , No Charge, 
 11493135, 1, 1, 1, 1, , , 
@@ -2268,7 +1946,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13782914, 1, 2, 1, 1, , , 
 13818205, 1, 1, 1, 1, , , 
 13896851, 2, 1.5, 1, 1, , €6 / night after the first guest, €19 / night
-13970411, No longer available,,,,,, 
 13995655, 1, 1, 1, 1, , , 
 14050084, 3, 2, 1, 1, €20, €20 / night after 2 guests, 
 14060922, 6, 2, 4, 5, , €15 / night after 5 guests, 
@@ -2280,7 +1957,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 14366504, 4, 1, 3, 3, €15, No Charge, €70 / night
 14369104, 2, 1, 1, 1, , , €42 / night
 14555123, 2, 1, 1, 1, , No Charge, €50 / night
-14570140, No longer available,,,,,, 
 14599411, 14, 2, 4, 8, , €15 / night after 8 guests, 
 14631479, 6, 1, 3, 6, , , €63 / night
 14838906, 2, 1.5, 1, 1, , €10 / night after the first guest, 
@@ -2291,7 +1967,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15002047, 2, 1, 1, 1, , No Charge, 
 15024610, 6, 1, 2, 4, , No Charge, 
 15037428, 3, 1, 2, 2, €10, No Charge, €50 / night
-15139565, No longer available,,,,,, 
 15148054, 4, 1, 2, 4, , No Charge, €130 / night
 15376970, 4, 2, 3, 4, €30, , €80 / night
 15476825, 1, 1, 1, 2, , , 
@@ -2300,7 +1975,6 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15750330, 2, 1, 1, , , No Charge, 
 15825667, 4, 1, 1, 2, , No Charge, 
 15911482, 4, 1, 2, 2, , No Charge, 
-15993402, No longer available,,,,,, 
 15994923, 2, 1, 1, 2, , No Charge, €17 / night
 16109184, 6, 2, 1, 6, , €20 / night after 2 guests, €60 / night
 16176728, 4, 2, 2, 3, €25, No Charge, €125 / night
@@ -2315,45 +1989,30 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 17147625, 4, 1, 1, 2, , No Charge, 
 17163049, 8, 2, 3, 6, €15, €10 / night after 2 guests, €70 / night
 17224053, 4, 1, 1, 3, , , €75 / night
-17282860, No longer available,,,,,, 
-17291184, No longer available,,,,,, 
 17328145, 2, 1, 1, 2, , €15 / night after the first guest, €35 / night
 17415537, 2, 1, 1, 1, , €20 / night after the first guest, 
 17418271, 5, 2.5, 3, 5, €35, €20 / night after 4 guests, 
 17458120, 1, 1, 1, 1, €4, , €18 / night
 17478570, 4, 1, 1, 1, €10, No Charge, €60 / night
-17509829, No longer available,,,,,, 
 17540430, 5, 2, 2, 3, , No Charge, 
 17555814, 2, 2, 1, 2, , No Charge, €33 / night
 17565640, 2, 1, 1, 1, €20, No Charge, 
 17692224, 1, 1.5, 1, 1, , , 
 17791413, 2, 1, , , , €16 / night after the first guest, €25 / night
-17825787, No longer available,,,,,, 
 17834241, 4, 1, 1, 1, €10, No Charge, 
 17836323, 5, 2, 2, 3, , No Charge, €120 / night
 17842309, 3, 2, 1, 1, €15, No Charge, 
-17855153, No longer available,,,,,, 
-17877952, No longer available,,,,,, 
-17878434, No longer available,,,,,, 
 17876183, 4, 1, 2, 3, €20, €20 / night after 2 guests, €75 / night
 17891248, 4, 1, 1, 2, €15, €19 / night after the first guest, €39 / night
-17901236, No longer available,,,,,, 
 17914959, 5, 1, 2, 4, €20, €15 / night after 2 guests, €65 / night
 17938741, 4, 1, 1, 2, €10, €10 / night after 2 guests, €35 / night
 17950591, 1, 1, 1, 1, , , 
-17957649, No longer available,,,,,, 
-17958091, No longer available,,,,,, 
 17968094, 2, 1, 1, 1, , No Charge, 
-17973803, No longer available,,,,,, 
 17979243, 2, 1, 1, 1, €20, No Charge, 
-17975290, No longer available,,,,,, 
-17975103, No longer available,,,,,, 
 18012881, 3, 1, 1, 2, , €10 / night after the first guest, €17 / night
-18021641, No longer available,,,,,, 
 18031303, 6, 1, 2, 3, €35, No Charge, 
 18033683, 4, 2, 2, 4, , No Charge, €155 / night
 18036661, 2, 1, 1, 1, €5, €12 / night after the first guest, €30 / night
-18036010, No longer available,,,,,, 
 18035369, 5, 1, 2, 3, €30, No Charge, 
 18046941, 2, 1, 1, 1, , No Charge, 
 18047479, 6, 1, 3, 3, €10, €25 / night after 4 guests, €100 / night
@@ -2364,11 +2023,7 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 18069099, 6, 2, 3, 3, , No Charge, 
 18067628, 6, 1, 2, 2, €30, No Charge, 
 18065740, 5, 1, 4, 4, , No Charge, 
-18065620, No longer available,,,,,, 
 18072357, 4, 1, 1, 2, , €10 / night after 2 guests, €58 / night
-18074837, No longer available,,,,,, 
-18074398, No longer available,,,,,, 
-18107619, No longer available,,,,,, 
 18107960, 8, 1, 3, 6, , No Charge, 
 18115316, 10, 3, 5, 7, , €10 / night after 8 guests, €320 / night
 18128191, 1, 1, 1, 1, , , 
@@ -2403,13 +2058,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 8899996, 2, 1, 1, 1, , No Charge, 
 8910699, 4, 1, 1, 4, , , 
 8958076, 4, 1, 1, 2, , €12 / night after 2 guests, €40 / night
-9274001, No longer available,,,,,, 
 9405585, 5, 2, 3, 4, , No Charge, €105 / night
 9469867, 3, 1, , 2, , €15 / night after 2 guests, €55 / night
 9591092, 2, 1, 1, 2, , , €85 / night
 9645118, 2, 1, 1, 2, €5, No Charge, 
 9705797, 4, 1, 2, 2, €10, €25 / night after 2 guests, €55 / night
-9893844, No longer available,,,,,, 
 10013934, 6, 2, 2, 3, , No Charge, 
 10057293, 6, 1.5, 3, 4, , No Charge, 
 10129853, 6, 2, 2, 5, , No Charge, 
@@ -2424,13 +2077,11 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 11856437, 2, 1, 1, 1, , No Charge, 
 11963986, 4, 1, 2, 2, , No Charge, 
 12049266, 3, 1, 1, 1, , €25 / night after 2 guests, 
-12132725, No longer available,,,,,, 
 12353011, 4, 1, 1, 1, , €10 / night after 2 guests, €90 / night
 12360011, 5, 3, 1, 10, , No Charge, 
 12361477, 2, 1, 1, 1, , No Charge, €55 / night
 12374350, 4, 1, 3, 3, , No Charge, 
 12408911, 3, 1, 1, 2, , €9 / night after the first guest, 
-12466558, No longer available,,,,,, 
 12476528, 6, 1, 3, 4, , €12 / night after 2 guests, €45 / night
 12828089, 2, 1, 1, 1, , No Charge, 
 12861752, 2, 2, 1, 1, €10, No Charge, €25 / night
@@ -2442,15 +2093,12 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 13469100, 4, 1, 1, 2, , €5 / night after 2 guests, €60 / night
 13519502, 1, 1, 1, 1, €10, , 
 13527952, 6, 1, 2, 4, , €20 / night after 2 guests, 
-13662260, No longer available,,,,,, 
 13770352, 3, 1, 1, 3, , €30 / night after the first guest, €50 / night
 13805664, 2, 2, 1, 2, , €20 / night after the first guest, 
 13956920, 6, 1, 2, 4, €10, €20 / night after 2 guests, €49 / night
 14176716, 2, 1, 1, 1, , , 
 14246744, 8, 1, 3, 6, , €20 / night after 7 guests, €199 / night
 14528597, 2, 1, 1, 1, , No Charge, 
-14539988, No longer available,,,,,, 
-14540794, No longer available,,,,,, 
 14592078, 3, 1, 1, 3, , €10 / night after 2 guests, 
 14649085, 5, 1, 3, 4, , €8 / night after the first guest, 
 14702395, 2, 1, 1, 1, , , 
@@ -2475,21 +2123,15 @@ ID, Accommodates, Bathrooms, Bedrooms, Beds, limpieza, extra, finde
 15394050, 6, 2, 2, 5, , , 
 15458922, 7, 1, 3, 3, , No Charge, 
 15476839, 3, 1, 1, 2, €5, €13 / night after 2 guests, €30 / night
-15515407, No longer available,,,,,, 
 15711452, 4, 1, 1, 2, €20, €15 / night after 2 guests, €65 / night
 15895187, 2, 1, 1, 2, , , €60 / night
 15963991, 1, 1, 1, 1, , , €28 / night
-16059845, No longer available,,,,,, 
 16585468, 4, 1, 1, 2, €20, €15 / night after 2 guests, 
 16646086, 14, 4, 4, 7, €70, €15 / night after 8 guests, €260 / night
 16853555, 1, 1, 1, 1, , , 
 17244977, 3, 2, 3, 3, , No Charge, 
 17947311, 2, 1, 1, 1, , No Charge, 
-17957648, No longer available,,,,,, 
 17956017, 2, 1.5, 1, 1, , No Charge, €21 / night
-18014088, No longer available,,,,,, 
-18093363, No longer available,,,,,, 
-18460538, No longer available,,,,,, 
 16341317, 8, 1, 2, 5, €20, €10 / night after 3 guests, 
 18077039, 5, 1, 2, 2, €20, €15 / night after 3 guests, 
 18343643, 1, 1, 1, 1, , , 
