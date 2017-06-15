@@ -1,0 +1,33 @@
+var page = require('webpage').create(),
+    fs = require('fs'),
+    system = require('system');
+console.log("In ");
+page.settings.userAgent = 'LavinKeAgent';
+var id = system.args[1]?system.args[1]:33116;
+var data_dir = "data";
+
+var url = "https://airbnb.com/rooms/"+id;
+var regex = /script type="application.json" data-hypernova-key="p3indexbundlejs" data-hypernova-id="\S+"><!--(.+)-->/;
+console.log(url);
+page.open(url,
+	  function(status) {
+	      if ( status !== 'success' ) {
+		   console.log( "Listado "+ id + " no se puede descargar");
+	      } else {
+		  var body = page.content;
+		  console.log(body);
+		  var match = regex.exec(body);
+		  console.log(match);
+		  var json_chunk = match[1];
+		  if (json_chunk) {
+		      fs.write(data_dir+"/airbnb-"+id+".json", json_chunk, "w");
+		  } else {
+		      console.log("Problemas con regex en ", id );
+		  }
+	      } 
+		 
+	      phantom.exit();
+
+	  });
+
+
