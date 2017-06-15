@@ -18,6 +18,8 @@ my @ids = map  /(\d+)/, @urls;
 
 while ( @ids ) {
   my $id = shift @ids;
+  my $file_name =  "$data_dir/airbnb-$id.json";
+  next if -e $file_name;
   my $page = get( "https://www.airbnb.com/rooms/$id" );
   say "Descargando $id";
   if ( $page ) {
@@ -30,13 +32,13 @@ while ( @ids ) {
 
       my $airbnb_data = decode_json $u_data;
       $airbnb_data->{'airbnb_id'} = $id;
-      write_binary("$data_dir/airbnb-$id.json",encode_json( $airbnb_data ) );
+      write_binary($file_name,encode_json( $airbnb_data ) );
 
     }
   } else {
     say "Error en $id";
     push @ids, $id;
-    sleep 2;
+    sleep 3*rand();
   }
 }
 
