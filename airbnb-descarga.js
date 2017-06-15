@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var http = require('https'),
+var https = require('https'),
     fs = require('fs');
 
 var url_file = process.argv[2]?process.argv[2]:"idsminitest.csv";
@@ -13,7 +13,7 @@ var ids = urls.match(/(\d+)/g);
 
 var regex = /script type="application.json" data-hypernova-key="p3indexbundlejs" data-hypernova-id="\S+"><!--(.+)-->/;
 ids.forEach( function( id ) {
-    var response = http.get("https://airbnb.com/rooms/"+id, function(response){
+    var response = https.get("https://airbnb.com/rooms/"+id, function(response){
         //de https://davidwalsh.name/nodejs-http-request
         var body = '';
         response.on('data', function(d) {
@@ -27,12 +27,12 @@ ids.forEach( function( id ) {
             if (json_chunk) {
                 var airbnb_data = JSON.parse(json_chunk);
                 airbnb_data["airbnb_id"] = id;
-                fs.writeFileSync(file_name, JSON.stringify(airbnb_data));
+                fs.writeFileSync(data_dir+"/airbnb-"+id+".json", JSON.stringify(airbnb_data));
             } else {
                 console.log( "Listado "+ id + " no está disponible")
             }
             
         });
     })
-    console.log(file_name);
+    
 })
