@@ -1,6 +1,7 @@
-var page = require('webpage').create(),
+var page = require('webpage').create(), // -*- mode:js3 -*- 
     fs = require('fs'),
     system = require('system');
+
 console.log("In ");
 page.settings.userAgent = 'LavinKeAgent';
 var id = system.args[1]?system.args[1]:33116;
@@ -11,6 +12,7 @@ var regex = /script type="application.json" data-hypernova-key="p3indexbundlejs"
 console.log(url);
 page.open(url,
 	  function(status) {
+            try {
 	      if ( status !== 'success' ) {
 		   console.log( "Listado "+ id + " no se puede descargar");
 	      } else {
@@ -24,9 +26,17 @@ page.open(url,
 		  } else {
 		      console.log("Problemas con regex en ", id );
 		  }
-	      } 
-		 
-	      phantom.exit();
+	      }
+              phantom.exit();
+            } catch( ex ) {
+	      var fullMessage = "\nJAVASCRIPT EXCEPTION";
+              fullMessage += "\nMESSAGE: " + ex.toString();
+              for (var p in ex) {
+                fullMessage += "\n" + p.toUpperCase() + ": " + ex[p];
+              }
+              console.log(fullMessage);
+              phantom.exit();
+            }
 
 	  });
 
