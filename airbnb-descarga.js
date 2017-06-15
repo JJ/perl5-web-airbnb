@@ -4,8 +4,10 @@ var http = require('http'),
     fs = require('fs');
 
 var url_file = process.argv[2]?process.argv[2]:"idsminitest.csv";
-var data_dir = process.argv[3]?process.argv[3]:"data";
-
+var data_dir = process.argv[3]?process.argv[3]:".";
+if (!fs.existsSync(data_dir)){
+    fs.mkdirSync(data_dir);
+}
 var urls = fs.readFileSync(url_file, "utf8");
 var ids = urls.match(/(\d+)/g);
 
