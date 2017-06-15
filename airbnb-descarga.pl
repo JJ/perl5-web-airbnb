@@ -35,10 +35,11 @@ while ( @ids ) {
       write_binary($file_name,encode_json( $airbnb_data ) );
 
     }
+    sleep 5*rand();
   } else {
     say "Error en $id";
     push @ids, $id;
-    sleep 3*rand();
+    sleep 15*rand();
   }
 }
 
