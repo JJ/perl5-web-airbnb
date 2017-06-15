@@ -3,13 +3,13 @@
     "version": "0.0.1",
     "description": "Download stuff from AirBnB",
     "main": "airbnb-descarga.js",
-    "start": "./airbnb-descarga.js",
     "dependencies": {
 	"http": "0.0.0"
     },
     "devDependencies": {},
     "scripts": {
-	"test": "mocha"
+	"test": "mocha",
+	"start": "./airbnb-descarga.js"
     },
     "repository": {
 	"type": "git",
