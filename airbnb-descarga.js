@@ -13,7 +13,7 @@ var ids = urls.match(/(\d+)/g);
 
 ids.forEach( function( id ) {
     var file_name = data_dir+"/airbnb-"+id+".json";
-    var response = http.get("http://airbnb.com/rooms/"+id, function(response){
+    var response = http.get("https://airbnb.com/rooms/"+id, function(response){
         //de https://davidwalsh.name/nodejs-http-request
         var body = '';
         response.on('data', function(d) {
