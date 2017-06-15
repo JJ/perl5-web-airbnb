@@ -9,16 +9,23 @@ use File::Slurper qw(read_text read_lines);
 use JSON;
 use utf8;
 
-my $url_file = shift || "miniurls.csv";
 my $data_dir = shift || "data";
+my $url_file = shift;
 
-my @urls = read_lines( $url_file);
+my @ids;
+
+if ($url_file ) {
+    my @urls = read_lines( $url_file);
+    @ids =   map  /(\d+)/,  @urls;
+} else {
+    my @files = <"$data_dir/airbnb-*.json">;
+    @ids =   map  /(\d+)/, @files;	
+}
 
 my %data;
-my @columns = qw ( Accommodates: Bathrooms: Bedrooms: Beds: limpieza extra finde precio lat lng);
+my @columns = qw ( Accommodates: Bathrooms: Bedrooms: Beds: limpieza extra finde precio lat lng tipo);
 say "ID, ", join(", ", @columns);
-for my $u ( @urls ) {
-  my ($id) = ($u =~ /(\d+)/);
+for my $id ( @ids ) {
   my ($json_chunk) = read_text("$data_dir/airbnb-$id.json");
   if (!$json_chunk) {
     say "Problem parsing $id ";
@@ -33,6 +40,7 @@ for my $u ( @urls ) {
     $data{$id}{'limpieza'} = $price_data->{'cleaning_fee'}{'value'};
     $data{$id}{'extra'} = $price_data->{'extra_people'}{'value'};
     $data{$id}{'finde'} = $price_data->{'weekend_price'}{'value'};
+    $data{$id}{'tipo'} = $airbnb_data->{'bootstrapData'}{'listing'}{'room_type_category'};
     for my $l ( qw( lat lng ) ) {
       $data{$id}{$l} = $airbnb_data->{'bootstrapData'}{'listing'}{$l};
     }
