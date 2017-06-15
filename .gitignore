@@ -36,3 +36,10 @@ inc/
 
 # Emacs backup
 *~
+
+raw/
+data/*.json
+urls-error.csv
+urls.csv
+33116
+65305
