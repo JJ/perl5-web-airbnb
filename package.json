@@ -2,7 +2,7 @@
   "name": "perl5-web-airbnb",
   "version": "0.0.1",
   "description": "Download stuff from AirBnB",
-  "main": "airbnb-descarga.js",
+  "main": "./airbnb-descarga.js",
   "dependencies": {
     "http": "0.0.0"
   },
