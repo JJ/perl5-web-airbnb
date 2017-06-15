@@ -1,0 +1,27 @@
+{
+  "name": "perl5-web-airbnb",
+  "version": "0.0.1",
+  "description": "Download stuff from AirBnB",
+  "main": "airbnb-descarga.js",
+  "dependencies": {
+    "http": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJ/perl5-web-airbnb.git"
+  },
+  "keywords": [
+    "AirBnB",
+    "scraping"
+  ],
+  "author": "JJ Merelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JJ/perl5-web-airbnb/issues"
+  },
+  "homepage": "https://github.com/JJ/perl5-web-airbnb#readme"
+}
