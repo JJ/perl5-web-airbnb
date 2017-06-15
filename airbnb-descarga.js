@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var http = require('http'),
+var http = require('https'),
     fs = require('fs');
 
 var url_file = process.argv[2]?process.argv[2]:"idsminitest.csv";
@@ -11,8 +11,8 @@ if (!fs.existsSync(data_dir)){
 var urls = fs.readFileSync(url_file, "utf8");
 var ids = urls.match(/(\d+)/g);
 
+var regex = /script type="application.json" data-hypernova-key="p3indexbundlejs" data-hypernova-id="\S+"><!--(.+)-->/;
 ids.forEach( function( id ) {
-    var file_name = data_dir+"/airbnb-"+id+".json";
     var response = http.get("https://airbnb.com/rooms/"+id, function(response){
         //de https://davidwalsh.name/nodejs-http-request
         var body = '';
@@ -20,8 +20,10 @@ ids.forEach( function( id ) {
             body += d;
         });
         response.on('end', function() {
-
-            var json_chunk = body.match(/script type="application.json" data-hypernova-key="p3indexbundlejs" data-hypernova-id="\S+"><!--(.+)-->/);
+            console.log(body);
+            var match = regex.exec(body);
+            console.log(match);
+            var json_chunk = match[1];
             if (json_chunk) {
                 var airbnb_data = JSON.parse(json_chunk);
                 airbnb_data["airbnb_id"] = id;

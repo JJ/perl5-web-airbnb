@@ -4,7 +4,7 @@
     "description": "Download stuff from AirBnB",
     "main": "airbnb-descarga.js",
     "dependencies": {
-	"http": "0.0.0"
+	"https": "0.0.0"
     },
     "devDependencies": {},
     "scripts": {
