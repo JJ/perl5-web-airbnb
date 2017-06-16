@@ -6,12 +6,15 @@ use warnings;
 use v5.14;
 
 use File::Slurper qw(read_lines write_binary);
-use LWP::Simple;
+use WWW::Curl::Easy;
 use JSON;
 use utf8;
 
 my $url_file = shift || "miniurls.csv";
 my $data_dir = shift || "data";
+
+my $curl = WWW::Curl::Easy->new;
+$curl->setopt(CURLOPT_HEADER,1);
 
 my @urls = read_lines( $url_file);
 my @ids = map  /(\d+)/, @urls;
@@ -20,10 +23,17 @@ while ( @ids ) {
   my $id = shift @ids;
   my $file_name =  "$data_dir/airbnb-$id.json";
   next if -e $file_name;
-  my $page = get( "https://www.airbnb.com/rooms/$id" );
+  #  my $page = get( "https://www.airbnb.com/rooms/$id" );
+  $curl->setopt(CURLOPT_URL, "https://www.airbnb.com/rooms/$id" );
+  $curl->setopt(CURLOPT_FOLLOWLOCATION, 1 );
+  my $response_body;
+  $curl->setopt(CURLOPT_WRITEDATA,\$response_body);
+
   say "Descargando $id";
-  if ( $page ) {
+  my $retcode = $curl->perform;
+  if ( $retcode == 0 ) {
     #Obtiene el chunk de JSON
+    my ($page) = ($response_body =~ /.+?<\/html>/s);
     my ($json_chunk) = ($page =~ /script type="application.json" data-hypernova-key="p3indexbundlejs" data-hypernova-id="\S+"><!--(.+)-->/);
     if (!$json_chunk) {
       say "$id No longer available";

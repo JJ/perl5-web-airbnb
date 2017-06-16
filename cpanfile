@@ -1,4 +1,4 @@
 requires "File::Slurper";
-requires "LWP::Simple";
+requires "WWW::Curl::Easy";
 requires "JSON";
 requires "utf8";
