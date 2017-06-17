@@ -18,7 +18,7 @@ while ( @ids ) {
   my $file_name =  "$data_dir/airbnb-$id.json";
   next if -e $file_name;
 
-  my $output = `phantomjs airbnb-descarga-id.pjs $id $data_dir`;
+  my $output = `phantomjs --cookies-file=/tmp/these-are-cookies.txt airbnb-descarga-id.pjs $id $data_dir`;
   sleep 10*rand();
 
 }
