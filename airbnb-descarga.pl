@@ -20,7 +20,7 @@ my @urls = read_lines( $url_file);
 my @ids = map  /(\d+)/, @urls;
 
 while ( @ids ) {
-  my $id = shift @ids;
+  my $id = pop @ids;
   my $file_name =  "$data_dir/airbnb-$id.json";
   next if -e $file_name;
   #  my $page = get( "https://www.airbnb.com/rooms/$id" );
